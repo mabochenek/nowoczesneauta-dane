@@ -8,7 +8,10 @@ polskim rynku, oraz dziennik zmian tych danych z dokumentem źródłowym przy ka
 Zbiór jest odświeżany automatycznie przy każdej publikacji serwisu.
 
 <!-- STATS:START -->
-(statystyki uzupełnia `scripts/publish-open-data.mjs`)
+- Wersja zbioru: **2026-09-02** (stan danych źródłowych: 2026-07-31, zrzut: 2026-09-02)
+- Modele: **196** (official_pl_current 146, official_pl_announced 25, historical 15, cancelled_before_launch 4, withdrawn 3, official_pl_presale 2, private_import 1)
+- Zdarzenia w Radarze: **73** (availability 44, price 8, promotion 8, versions 5, correction 4, warranty 3, equipment 1)
+- Sieć sprzedaży: 463 punktów w 106 miastach
 <!-- STATS:END -->
 
 ## Pliki
