@@ -4,7 +4,9 @@
   "version": "2026-09-02",
   "dateModified": "2026-09-02",
   "methodology": "https://nowoczesneauta.pl/radar-zmian/#metodologia",
-  "license": "https://nowoczesneauta.pl/radar-zmian/#zasady-wykorzystania",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "repository": "https://github.com/mabochenek/nowoczesneauta-dane",
+  "usageTerms": "https://nowoczesneauta.pl/radar-zmian/#zasady-wykorzystania",
   "scope": "chińskie marki i modele na rynku polskim: bieżąca oferta, oficjalne zapowiedzi, przedsprzedaż oraz modele wycofane i historyczne; ceny oficjalne, prognozy i ceny archiwalne są rozdzielone",
   "observation": {
     "snapshotDate": "2026-09-02",
