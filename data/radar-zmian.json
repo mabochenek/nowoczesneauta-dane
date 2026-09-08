@@ -9,11 +9,11 @@
   "usageTerms": "https://nowoczesneauta.pl/radar-zmian/#zasady-wykorzystania",
   "scope": "chińskie marki i modele na rynku polskim: bieżąca oferta, oficjalne zapowiedzi, przedsprzedaż oraz modele wycofane i historyczne; ceny oficjalne, prognozy i ceny archiwalne są rozdzielone",
   "observation": {
-    "snapshotDate": "2026-09-02",
+    "snapshotDate": "2026-09-08",
     "sourceDataDate": "2026-07-31",
     "monitoredModels": 196,
-    "dealers": 463,
-    "cities": 106
+    "dealers": 606,
+    "cities": 154
   },
   "models": [
     {
@@ -33,7 +33,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 47
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -63,7 +63,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 47
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -89,7 +89,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 47
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -115,7 +115,7 @@
         "warrantyVehicle": "3 lata / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 3
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -139,7 +139,7 @@
         "warrantyVehicle": "3 lata / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 3
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -163,7 +163,7 @@
         "warrantyVehicle": "3 lata / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 3
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -191,7 +191,7 @@
         "warrantyVehicle": "5 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 27
+        "dealerCount": 29
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -224,7 +224,7 @@
         "warrantyVehicle": "5 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 27
+        "dealerCount": 29
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -257,7 +257,7 @@
         "warrantyVehicle": "5 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 27
+        "dealerCount": 29
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -286,7 +286,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 47
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -313,7 +313,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 47
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -337,7 +337,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 47
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -961,7 +961,7 @@
         "warrantyVehicle": "7 lat / 160 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 6
+        "dealerCount": 9
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -985,7 +985,7 @@
         "warrantyVehicle": "7 lat / 160 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 6
+        "dealerCount": 9
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -1013,7 +1013,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 48
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -1045,7 +1045,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km lub 3 lata bez limitu km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 48
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -1073,7 +1073,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 tys. km (akumulator, silnik, elektronika)",
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 48
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -1101,7 +1101,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 tys. km (akumulator, silnik, elektronika)",
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 48
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1129,7 +1129,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km lub 3 lata bez limitu km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 48
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -1157,7 +1157,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 tys. km (akumulator, silnik, elektronika)",
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 48
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1181,7 +1181,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 tys. km (akumulator, silnik, elektronika)",
         "warrantySoh": null,
-        "dealerCount": 40
+        "dealerCount": 48
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1209,7 +1209,7 @@
         "warrantyVehicle": "7 lat / 160 tys. km",
         "warrantyBattery": "8 lat / 200 tys. km",
         "warrantySoh": null,
-        "dealerCount": 6
+        "dealerCount": 9
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1241,7 +1241,7 @@
         "warrantyVehicle": "7 lat / 160 tys. km",
         "warrantyBattery": "8 lat / 200 tys. km",
         "warrantySoh": null,
-        "dealerCount": 6
+        "dealerCount": 9
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1265,7 +1265,7 @@
         "warrantyVehicle": "7 lat / 160 tys. km",
         "warrantyBattery": "8 lat / 200 tys. km",
         "warrantySoh": null,
-        "dealerCount": 6
+        "dealerCount": 9
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1284,7 +1284,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 4
+        "dealerCount": 3
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1305,7 +1305,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 4
+        "dealerCount": 3
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1332,7 +1332,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 4
+        "dealerCount": 3
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1354,7 +1354,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 4
+        "dealerCount": 3
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1378,7 +1378,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 4
+        "dealerCount": 3
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1565,7 +1565,7 @@
         "warrantyVehicle": "5 lat / 150 000 km",
         "warrantyBattery": "8 lat / 170 000 km",
         "warrantySoh": null,
-        "dealerCount": 29
+        "dealerCount": 27
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1591,7 +1591,7 @@
         "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 29
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1615,7 +1615,7 @@
         "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 29
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1643,7 +1643,7 @@
         "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 29
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1667,7 +1667,7 @@
         "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 29
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1686,7 +1686,7 @@
         "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 29
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1710,7 +1710,7 @@
         "warrantyVehicle": "7 lat",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 1
+        "dealerCount": 2
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1734,7 +1734,7 @@
         "warrantyVehicle": "7 lat",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 1
+        "dealerCount": 2
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1794,7 +1794,7 @@
         "warrantyVehicle": "5 lat / 200 000 km",
         "warrantyBattery": "8 lat / 200 000 km",
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 9
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1821,7 +1821,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": "6 lat / 300 000 km; możliwość przedłużenia o 2 lata",
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 9
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -1869,7 +1869,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1893,7 +1893,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-07-13",
       "sourceReferences": [
@@ -1917,7 +1917,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -1941,7 +1941,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -1965,7 +1965,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -1989,7 +1989,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2013,7 +2013,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2037,7 +2037,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -2061,7 +2061,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 25
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2080,7 +2080,7 @@
         "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 23
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2100,7 +2100,7 @@
         "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
         "warrantyBattery": "8 lat / 400 000 km — ogólna deklaracja Foton Polska",
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 23
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2120,7 +2120,7 @@
         "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
         "warrantyBattery": "5 lat / 200 000 km dla Electric; PHEV do potwierdzenia",
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 23
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2140,7 +2140,7 @@
         "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
         "warrantyBattery": "5 lat / 200 000 km",
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 23
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2160,7 +2160,7 @@
         "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
         "warrantyBattery": "8 lat / 400 000 km — ogólna deklaracja Foton Polska",
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 23
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2180,7 +2180,7 @@
         "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 23
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2200,7 +2200,7 @@
         "warrantyVehicle": "5 lat / 200 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 23
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2229,7 +2229,7 @@
         "warrantyVehicle": "8 lat (tylko hasło)",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 12
+        "dealerCount": 16
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2257,7 +2257,7 @@
         "warrantyVehicle": "5 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 12
+        "dealerCount": 16
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2281,7 +2281,7 @@
         "warrantyVehicle": "5 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 12
+        "dealerCount": 16
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -2305,7 +2305,7 @@
         "warrantyVehicle": "5 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 12
+        "dealerCount": 16
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -2329,7 +2329,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 12
+        "dealerCount": 16
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2348,7 +2348,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 18
+        "dealerCount": 20
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2377,7 +2377,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 18
+        "dealerCount": 20
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2405,7 +2405,7 @@
         "warrantyVehicle": "6 lat na samochód",
         "warrantyBattery": "8 lat / 150 tys. km",
         "warrantySoh": null,
-        "dealerCount": 18
+        "dealerCount": 20
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2612,7 +2612,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 15
+        "dealerCount": 16
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -2636,7 +2636,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 15
+        "dealerCount": 16
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -2660,7 +2660,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 15
+        "dealerCount": 16
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -2688,7 +2688,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 15
+        "dealerCount": 16
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -2716,7 +2716,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 15
+        "dealerCount": 16
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -2740,7 +2740,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 15
+        "dealerCount": 16
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2762,7 +2762,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2786,7 +2786,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2810,7 +2810,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -2830,7 +2830,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2854,7 +2854,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2873,7 +2873,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2892,7 +2892,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2918,7 +2918,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2942,7 +2942,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2966,7 +2966,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 21
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -2994,7 +2994,7 @@
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -3023,7 +3023,7 @@
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -3052,7 +3052,7 @@
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-07",
       "sourceReferences": [
@@ -3081,7 +3081,7 @@
         "warrantyVehicle": "7 lat",
         "warrantyBattery": "8 lat",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -3109,7 +3109,7 @@
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -3138,7 +3138,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -3163,7 +3163,7 @@
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -3192,7 +3192,7 @@
         "warrantyVehicle": "5 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 26
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -3216,7 +3216,7 @@
         "warrantyVehicle": "5 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 26
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -3235,7 +3235,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 26
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3264,7 +3264,7 @@
         "warrantyVehicle": "5 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 23
+        "dealerCount": 26
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -3316,7 +3316,7 @@
         "warrantyVehicle": "4 lata / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 24
+        "dealerCount": 26
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3350,7 +3350,7 @@
         "warrantyVehicle": "4 lata / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 24
+        "dealerCount": 26
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -3391,7 +3391,7 @@
         "warrantyVehicle": "4 lata / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 24
+        "dealerCount": 26
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -3422,7 +3422,7 @@
         "warrantyVehicle": "4 lata / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 24
+        "dealerCount": 26
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3468,7 +3468,7 @@
         "warrantyVehicle": "4 lata / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 24
+        "dealerCount": 26
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -3499,7 +3499,7 @@
         "warrantyVehicle": "4 lata / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 24
+        "dealerCount": 26
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3525,7 +3525,7 @@
         "warrantyVehicle": "3 lata / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 24
+        "dealerCount": 26
       },
       "observedAt": "2026-07-07",
       "sourceReferences": [
@@ -3623,7 +3623,7 @@
         "warrantyVehicle": "5 lat / 160 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3661,7 +3661,7 @@
         "warrantyVehicle": "5 lat / 160 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3699,7 +3699,7 @@
         "warrantyVehicle": "5 lat / 160 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3725,7 +3725,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": "70%",
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3755,7 +3755,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": "8 lat / 200 000 km",
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3809,7 +3809,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": "8 lat / 250 000 km",
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3855,7 +3855,7 @@
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": "70%",
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3893,7 +3893,7 @@
         "warrantyVehicle": "5 lat / 160 000 km",
         "warrantyBattery": "8 lat / 250 000 km",
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3914,7 +3914,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3933,7 +3933,7 @@
         "warrantyVehicle": "5 lat / 160 tys. km",
         "warrantyBattery": "8 lat / 200 tys. km",
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3953,7 +3953,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3972,7 +3972,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -3991,7 +3991,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -4011,7 +4011,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -4035,7 +4035,7 @@
         "warrantyVehicle": "5 lat / 160 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 25
+        "dealerCount": 27
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -4072,7 +4072,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": "7 lat / 150 tys. km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4109,7 +4109,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -4140,7 +4140,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -4171,7 +4171,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": "7 lat / 150 tys. km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4201,7 +4201,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -4234,7 +4234,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": "7 lat / 150 tys. km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -4264,7 +4264,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
@@ -4296,7 +4296,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -4340,7 +4340,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": "7 lat / 150 tys. km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4377,7 +4377,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": "7 lat / 150 tys. km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4407,7 +4407,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": "7 lat / 150 tys. km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4435,7 +4435,7 @@
         "warrantyVehicle": "7 lat / 150 tys. km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4455,7 +4455,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 2
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -4474,7 +4474,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 2
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -4579,7 +4579,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -4607,7 +4607,7 @@
         "warrantyVehicle": "7 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-13",
       "sourceReferences": [
@@ -4635,7 +4635,7 @@
         "warrantyVehicle": "7 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
@@ -4667,7 +4667,7 @@
         "warrantyVehicle": "8 lat / 160 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4692,7 +4692,7 @@
         "warrantyVehicle": "7 lat",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4717,7 +4717,7 @@
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
-        "dealerCount": 55
+        "dealerCount": 60
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4811,7 +4811,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 15
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -4837,7 +4837,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 15
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -4863,7 +4863,7 @@
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 15
       },
       "observedAt": "2026-07-31",
       "sourceReferences": [
@@ -4889,7 +4889,7 @@
         "warrantyVehicle": "5 lat / 100 000 km (dane prasowe dla marki, nie potwierdzone specyficznie dla Courage)",
         "warrantyBattery": "8 lat / 200 000 km (EV-Database, rynek NL — rozbieżne z 160 000 km podawanym dla Free/Dream w prasie PL)",
         "warrantySoh": null,
-        "dealerCount": 1
+        "dealerCount": 27
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4914,7 +4914,7 @@
         "warrantyVehicle": "5 lat / 100 000 km (dane prasowe, nie z dokumentu producenta)",
         "warrantyBattery": "8 lat / 160 000 km (dane prasowe, nie z dokumentu producenta)",
         "warrantySoh": null,
-        "dealerCount": 1
+        "dealerCount": 27
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
@@ -4939,7 +4939,7 @@
         "warrantyVehicle": "5 lat / 100 000 km (dane prasowe, nie z dokumentu producenta)",
         "warrantyBattery": "8 lat / 160 000 km (dane prasowe, nie z dokumentu producenta)",
         "warrantySoh": null,
-        "dealerCount": 1
+        "dealerCount": 27
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
