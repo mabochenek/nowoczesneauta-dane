@@ -380,7 +380,7 @@
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
@@ -388,6 +388,8 @@
       "sourceReferences": [
         "byd/atto-2/broszura.pdf",
         "byd/atto-2/cennik-2025.pdf",
+        "byd/atto-2/cennik-comfort-2026-01.pdf",
+        "byd/atto-2/dane.md",
         "byd/atto-2/gwarancja.pdf"
       ]
     },
@@ -397,26 +399,27 @@
       "url": "https://nowoczesneauta.pl/modele/byd-atto-2-dm-i/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 114990,
+        "pricePln": 120740,
         "versions": [
           {
             "name": "Active",
-            "price": 114990
+            "price": 120740
           },
           {
             "name": "Boost",
-            "price": 127890
+            "price": 134285
           }
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
-        "byd/atto-2-dm-i/cennik-2026.pdf"
+        "byd/atto-2-dm-i/cennik-2026.pdf",
+        "byd/atto-2-dm-i/dane.md"
       ]
     },
     {
@@ -438,13 +441,14 @@
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
         "byd/atto-3-evo/cennik-2026.pdf",
+        "byd/atto-3-evo/dane.md",
         "byd/atto-3-evo/gwarancja-atto3-generic.pdf"
       ]
     },
@@ -466,8 +470,8 @@
           }
         ],
         "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "6 lat / 150 000 km",
-        "warrantyBattery": "8 lat / 250 000 km",
+        "warrantyVehicle": "6 lat / 150 tys. km",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": null,
         "dealerCount": 47
       },
@@ -484,11 +488,11 @@
       "url": "https://nowoczesneauta.pl/modele/byd-dolphin-g-dm-i/",
       "marketStatus": "official_pl_presale",
       "current": {
-        "pricePln": 105000,
+        "pricePln": 120800,
         "versions": [
           {
             "name": "Active",
-            "price": 105000
+            "price": 120800
           },
           {
             "name": "Boost",
@@ -505,7 +509,7 @@
         ],
         "availability": "oficjalna przedsprzedaż w Polsce; planowane dostawy: październik 2026",
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
@@ -535,7 +539,7 @@
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
@@ -543,6 +547,7 @@
       "sourceReferences": [
         "byd/dolphin-surf/broszura-2025-05.pdf",
         "byd/dolphin-surf/cennik-2025.pdf",
+        "byd/dolphin-surf/dane.md",
         "byd/dolphin-surf/gwarancja.pdf"
       ]
     },
@@ -648,7 +653,7 @@
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
@@ -657,6 +662,7 @@
         "byd/seal/broszura-2024.pdf",
         "byd/seal/broszura-2025.pdf",
         "byd/seal/cennik-2026.pdf",
+        "byd/seal/dane.md",
         "byd/seal/gwarancja.pdf"
       ]
     },
@@ -679,13 +685,16 @@
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
-        "byd/seal-5-dm-i/cennik-2025.pdf"
+        "byd/seal-5-dm-i/cennik-2025.pdf",
+        "byd/seal-5-dm-i/cennik-2026-08-my2025.pdf",
+        "byd/seal-5-dm-i/cennik-2026-08-my2026.pdf",
+        "byd/seal-5-dm-i/dane.md"
       ]
     },
     {
@@ -701,20 +710,25 @@
             "price": 152600
           },
           {
+            "name": "Comfort Lite",
+            "price": 176300
+          },
+          {
             "name": "Comfort",
             "price": 180600
           }
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
         "byd/seal-6-dm-i/cennik-2025-ocr.txt",
-        "byd/seal-6-dm-i/cennik-2025.pdf"
+        "byd/seal-6-dm-i/cennik-2025.pdf",
+        "byd/seal-6-dm-i/dane.md"
       ]
     },
     {
@@ -732,18 +746,23 @@
           {
             "name": "Comfort",
             "price": 187100
+          },
+          {
+            "name": "Comfort Lite",
+            "price": 182800
           }
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
         "byd/seal-6-dm-i-touring/cennik-2025-ocr.txt",
-        "byd/seal-6-dm-i-touring/cennik-2025.pdf"
+        "byd/seal-6-dm-i-touring/cennik-2025.pdf",
+        "byd/seal-6-dm-i-touring/dane.md"
       ]
     },
     {
@@ -765,13 +784,14 @@
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
-        "byd/seal-u-dm-i/broszura-2025-07.pdf"
+        "byd/seal-u-dm-i/broszura-2025-07.pdf",
+        "byd/seal-u-dm-i/dane.md"
       ]
     },
     {
@@ -797,7 +817,7 @@
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
@@ -807,6 +827,7 @@
         "byd/seal-u-dm-i/cennik-2026.pdf",
         "byd/seal-u-dm-i/dane-techniczne-2024-12-03.pdf",
         "byd/seal-u-dm-i/dane-techniczne-2024-12-24.pdf",
+        "byd/seal-u-dm-i/dane.md",
         "byd/seal-u-dm-i/gwarancja.pdf"
       ]
     },
@@ -825,13 +846,14 @@
         ],
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
-        "byd/sealion-5-dm-i/cennik-2026-07.pdf"
+        "byd/sealion-5-dm-i/cennik-2026-07.pdf",
+        "byd/sealion-5-dm-i/dane.md"
       ]
     },
     {
@@ -856,8 +878,8 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "6 lat / 150 tys. km (wg umowy gwarancyjnej) — ikona cennika 2025: 'lub 200 tys. km', ikona cennika 2026: 'lub 250 tys. km'",
-        "warrantyBattery": "8 lat / 250 tys. km (ogłoszone 01/2026; dokument gwarancyjny wciąż 200 tys.)",
+        "warrantyVehicle": "6 lat / 150 tys. km",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
@@ -866,6 +888,7 @@
         "byd/sealion-7/broszura-2024.pdf",
         "byd/sealion-7/broszura-2026.pdf",
         "byd/sealion-7/cennik-2025.pdf",
+        "byd/sealion-7/dane.md",
         "byd/sealion-7/gwarancja.pdf"
       ]
     },
@@ -883,8 +906,8 @@
           }
         ],
         "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "6 lat / 150 000 km",
-        "warrantyBattery": "8 lat / 250 000 km",
+        "warrantyVehicle": "6 lat / 150 tys. km",
+        "warrantyBattery": "8 lat / 250 tys. km",
         "warrantySoh": null,
         "dealerCount": 47
       },
@@ -3755,7 +3778,9 @@
       "observedAt": "2026-07-16",
       "sourceReferences": [
         "mg/mg-cyberster/cennik-r25-2026.pdf",
-        "mg/mg-cyberster/cennik-r26-2026.pdf"
+        "mg/mg-cyberster/cennik-r26-2026-08.pdf",
+        "mg/mg-cyberster/cennik-r26-2026.pdf",
+        "mg/mg-cyberster/dane.md"
       ]
     },
     {
@@ -3794,7 +3819,8 @@
         "mg/mg-hs/cennik-2024-2025.pdf",
         "mg/mg-hs/cennik-promocyjny.pdf",
         "mg/mg-hs/cennik-r25-2026.pdf",
-        "mg/mg-hs/dane-techniczne-2025.pdf"
+        "mg/mg-hs/dane-techniczne-2025.pdf",
+        "mg/mg-hs/dane.md"
       ]
     },
     {
@@ -3825,7 +3851,9 @@
         "mg/mg-hs-hybrid/cennik-2026.pdf",
         "mg/mg-hs-hybrid/cennik-r25-2026.pdf",
         "mg/mg-hs-hybrid/cennik-r26-2026-06.pdf",
-        "mg/mg-hs-hybrid/cennik-r26-2026.pdf"
+        "mg/mg-hs-hybrid/cennik-r26-2026-09.pdf",
+        "mg/mg-hs-hybrid/cennik-r26-2026.pdf",
+        "mg/mg-hs-hybrid/dane.md"
       ]
     },
     {
@@ -3854,6 +3882,8 @@
       "observedAt": "2026-07-16",
       "sourceReferences": [
         "mg/mg-hs-phev/cennik-r26-2026-06.pdf",
+        "mg/mg-hs-phev/cennik-r26-2026-09.pdf",
+        "mg/mg-hs-phev/dane.md",
         "mg/mg-hs/broszura-phev-2025.pdf",
         "mg/mg-hs/dane-techniczne-2025.pdf"
       ]
@@ -3884,7 +3914,9 @@
       "observedAt": "2026-08-04",
       "sourceReferences": [
         "mg/mg-zs/cennik-classic.pdf",
-        "mg/mg-zs/cennik-r26-2026-06-ice.pdf"
+        "mg/mg-zs/cennik-r26-2026-06-ice.pdf",
+        "mg/mg-zs/cennik-r26-2026-09-ice.pdf",
+        "mg/mg-zs/dane.md"
       ]
     },
     {
@@ -3918,7 +3950,9 @@
       "sourceReferences": [
         "mg/mg-zs-hybrid/cennik-2026-apr.pdf",
         "mg/mg-zs-hybrid/cennik-2026.pdf",
-        "mg/mg-zs-hybrid/cennik-r26-2026-06.pdf"
+        "mg/mg-zs-hybrid/cennik-r26-2026-06.pdf",
+        "mg/mg-zs-hybrid/cennik-r26-2026-09.pdf",
+        "mg/mg-zs-hybrid/dane.md"
       ]
     },
     {
@@ -3946,7 +3980,9 @@
       },
       "observedAt": "2026-07-08",
       "sourceReferences": [
-        "mg/mg3/cennik-2026.pdf"
+        "mg/mg3/cennik-2026.pdf",
+        "mg/mg3/cennik-r26-2026-09-ice.pdf",
+        "mg/mg3/dane.md"
       ]
     },
     {
@@ -3955,19 +3991,19 @@
       "url": "https://nowoczesneauta.pl/modele/mg3-hybrid/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 83950,
+        "pricePln": 87950,
         "versions": [
           {
             "name": "Standard",
-            "price": 83950
+            "price": 87950
           },
           {
             "name": "Excite",
-            "price": 90500
+            "price": 94500
           },
           {
             "name": "Exclusive",
-            "price": 97000
+            "price": 101000
           }
         ],
         "availability": null,
@@ -3978,7 +4014,9 @@
       },
       "observedAt": "2026-08-04",
       "sourceReferences": [
-        "mg/mg3/cennik-2026-hybrid.pdf"
+        "mg/mg3/cennik-2026-hybrid.pdf",
+        "mg/mg3/cennik-r26-2026-09-hybrid.pdf",
+        "mg/mg3/dane.md"
       ]
     },
     {
@@ -3987,31 +4025,31 @@
       "url": "https://nowoczesneauta.pl/modele/mg4-ev/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 105900,
+        "pricePln": 100900,
         "versions": [
           {
             "name": "Standard 49 kWh",
-            "price": 105900
+            "price": 100900
           },
           {
             "name": "Comfort 64 kWh",
-            "price": 122600
+            "price": 117600
           },
           {
             "name": "Luxury 49 kWh",
-            "price": 127300
+            "price": 122300
           },
           {
             "name": "Luxury 64 kWh",
-            "price": 131300
+            "price": 126300
           },
           {
             "name": "Luxury LR 77 kWh",
-            "price": 146600
+            "price": 141600
           },
           {
             "name": "XPower 64 kWh",
-            "price": 150600
+            "price": 145600
           }
         ],
         "availability": null,
@@ -4023,7 +4061,8 @@
       "observedAt": "2026-07-16",
       "sourceReferences": [
         "mg/mg4-ev/cennik-r25-2026.pdf",
-        "mg/mg4-ev/cennik-rp2025.pdf"
+        "mg/mg4-ev/cennik-rp2025.pdf",
+        "mg/mg4-ev/dane.md"
       ]
     },
     {
@@ -4061,7 +4100,10 @@
       "sourceReferences": [
         "mg/mgs5-ev/broszura-eu-2025.pdf",
         "mg/mgs5-ev/cennik-2025.pdf",
-        "mg/mgs5-ev/cennik-r26-2026-06.pdf"
+        "mg/mgs5-ev/cennik-r25-2026-09.pdf",
+        "mg/mgs5-ev/cennik-r26-2026-06.pdf",
+        "mg/mgs5-ev/cennik-r26-2026-09.pdf",
+        "mg/mgs5-ev/dane.md"
       ]
     },
     {
@@ -4089,7 +4131,9 @@
       },
       "observedAt": "2026-07-16",
       "sourceReferences": [
-        "mg/mgs6-ev/cennik-r26-2026-06.pdf"
+        "mg/mgs6-ev/cennik-r26-2026-06.pdf",
+        "mg/mgs6-ev/cennik-r26-2026-09.pdf",
+        "mg/mgs6-ev/dane.md"
       ]
     },
     {
@@ -4118,7 +4162,9 @@
       "observedAt": "2026-07-16",
       "sourceReferences": [
         "mg/mgs9-phev/cennik-2025-apr.pdf",
-        "mg/mgs9-phev/cennik-r26-2026.pdf"
+        "mg/mgs9-phev/cennik-r26-2026-09.pdf",
+        "mg/mgs9-phev/cennik-r26-2026.pdf",
+        "mg/mgs9-phev/dane.md"
       ]
     },
     {
@@ -4793,6 +4839,424 @@
     }
   ],
   "changes": [
+    {
+      "id": "2026-09-11-byd-atto-2-dm-i-promotion-changed",
+      "modelSlug": "byd-atto-2-dm-i",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD ATTO 2 DM-i: promocja wersji Active pogłębiona do 105 700 zł",
+      "summary": "Cena promocyjna wersji Active spadła ze 114 800 zł do 105 700 zł (rabat 15 040 zł od katalogowych 120 740 zł). Boost pozostaje 127 600 zł przy katalogowej 134 285 zł. Oferta do 30.09.2026, wyłącznie za gotówkę.",
+      "before": "Active 114 800 zł (promocja)",
+      "after": "Active 105 700 zł (promocja do 30.09.2026)",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/atto-2-dm-i/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (ATTO 2 DM-i)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-atto-2-dm-i/"
+    },
+    {
+      "id": "2026-09-11-byd-seal-promotion-changed",
+      "modelSlug": "byd-seal",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Seal: promocja rocznika 2025 pogłębiona do 177 100 / 181 700 zł",
+      "summary": "Karta oferty BYD z 11.09.2026 obniża ceny promocyjne rocznika 2025: Design RWD 177 100 zł (było 191 400 zł), Excellence AWD 181 700 zł (było 199 200 zł). Katalog rocznika 2025 na karcie: 215 900 / 235 900 zł; cennik MY2026: 217 400 / 239 900 zł. Wyłącznie gotówka, do 30.09.2026 lub wyczerpania zapasów.",
+      "before": "Design 191 400 zł, Excellence AWD 199 200 zł (promocja)",
+      "after": "Design RWD 177 100 zł, Excellence AWD 181 700 zł (promocja do 30.09.2026)",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/seal/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Seal)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-seal/"
+    },
+    {
+      "id": "2026-09-11-byd-sealion-5-dm-i-promotion-added",
+      "modelSlug": "byd-sealion-5-dm-i",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "added",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Sealion 5 DM-i: pierwsza cena promocyjna — 136 500 zł",
+      "summary": "Karta oferty BYD z 11.09.2026 wprowadza cenę promocyjną wersji Design 136 500 zł zamiast katalogowych 149 990 zł (rabat 13 490 zł). Do 30.09.2026 lub wyczerpania zapasów, wyłącznie za gotówkę.",
+      "before": "149 990 zł (tylko cena katalogowa)",
+      "after": "136 500 zł (promocja do 30.09.2026) · katalog 149 990 zł",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/sealion-5-dm-i/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Sealion 5 DM-i)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-sealion-5-dm-i/"
+    },
+    {
+      "id": "2026-09-11-mg-zs-promotion-changed",
+      "modelSlug": "mg-zs",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "MG ZS: rabat pogłębiony do 13 000 zł — Standard 72 500 zł",
+      "summary": "Cennik R26 z 8.09.2026 obniża ceny promocyjne: Standard 72 500 zł (było 78 500 zł), Excite 85 900 zł (było 91 900 zł). Katalog bez zmian: 85 500 / 98 900 zł. Oferta do 30.09.2026, limit 10 aut na klienta.",
+      "before": "Standard 78 500 zł, Excite 91 900 zł (promocja)",
+      "after": "Standard 72 500 zł, Excite 85 900 zł (promocja do 30.09.2026)",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "mg/mg-zs/dane.md",
+        "label": "Cennik MG Polska — odczyt 11.09.2026 (ZS)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/mg-zs/"
+    },
+    {
+      "id": "2026-09-11-mg3-hybrid-promotion-changed",
+      "modelSlug": "mg3-hybrid",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "MG3 Hybrid+: promocja 76 950 zł zamiast 87 950 zł do 30.09.2026",
+      "summary": "Ten sam cennik wprowadza ceny promocyjne 76 950 / 83 500 / 90 000 zł (rabat do 11 000 zł, lakier metalik w cenie). Netto dla kupującego wersja Standard jest o 7 000 zł tańsza niż poprzednia cena 83 950 zł.",
+      "before": "Standard 83 950 zł",
+      "after": "Standard 76 950 zł (promocja do 30.09.2026)",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "mg/mg3/dane.md",
+        "label": "Cennik MG Polska — odczyt 11.09.2026 (MG3 Hybrid+)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/mg3-hybrid/"
+    },
+    {
+      "id": "2026-09-11-mg3-promotion-changed",
+      "modelSlug": "mg3",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "MG3: promocja pogłębiona — Standard 64 500 zł, Excite 70 900 zł",
+      "summary": "Cennik R26 z 7.09.2026 obniża ceny promocyjne o 5 000 zł: Standard 64 500 zł (było 69 500 zł), Excite 70 900 zł (było 75 900 zł). Katalog bez zmian: 73 500 / 79 900 zł. Oferta 1.09–30.09.2026.",
+      "before": "Standard 69 500 zł, Excite 75 900 zł (promocja)",
+      "after": "Standard 64 500 zł, Excite 70 900 zł (promocja do 30.09.2026)",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "mg/mg3/dane.md",
+        "label": "Cennik MG Polska — odczyt 11.09.2026 (MG3)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/mg3/"
+    },
+    {
+      "id": "2026-09-11-byd-atto-2-promotion-added",
+      "modelSlug": "byd-atto-2",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "added",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD ATTO 2: promocja obejmuje też rocznik 2026 (Comfort 148 280 zł)",
+      "summary": "Karta oferty BYD z 11.09.2026 dodaje do promocji rocznika 2025 (Active 113 100, Boost 116 000, Comfort 132 300 zł) cenę promocyjną wersji Comfort z rocznika 2026: 148 280 zł zamiast 156 900 zł. Wszystkie promocje do 30.09.2026, wyłącznie za gotówkę.",
+      "before": "promocja tylko rocznik 2025 (Active od 113 100 zł)",
+      "after": "rocznik 2025 od 113 100 zł oraz rocznik 2026 Comfort 148 280 zł",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/atto-2/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (ATTO 2)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-atto-2/"
+    },
+    {
+      "id": "2026-09-11-byd-dolphin-g-dm-i-price-changed",
+      "modelSlug": "byd-dolphin-g-dm-i",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "price",
+      "kind": "changed",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Dolphin G DM-i: pełny cennik przedsprzedaży — katalog 120 800 zł, promocje dla 4 wersji",
+      "summary": "Karta oferty rozdziela cenę katalogową wersji Active (120 800 zł) od ceny promocyjnej 105 000 zł, którą wcześniej pokazywaliśmy jako jedyną. Doszły promocje pozostałych wersji: Boost 116 900, Comfort 121 550, Sport 124 900 zł (katalog 134 200 / 139 700 / 143 500 zł), do 30.09.2026.",
+      "before": "Active 105 000 zł (bez rozróżnienia katalog/promocja)",
+      "after": "katalog od 120 800 zł, promocja od 105 000 zł do 30.09.2026",
+      "editorialNote": "Korygujemy sposób prezentacji ceny na podstawie oficjalnego cennika importera; nie twierdzimy, że importer zmienił cenę sprzedaży, jeśli dokument tego nie mówi.",
+      "source": {
+        "path": "rynek-2026/byd-dolphin-g-dm-i/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Dolphin G DM-i)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-dolphin-g-dm-i/"
+    },
+    {
+      "id": "2026-09-11-byd-seal-5-dm-i-promotion-added",
+      "modelSlug": "byd-seal-5-dm-i",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "added",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Seal 5 DM-i: promocja także dla rocznika 2026 (120 160 / 126 610 zł)",
+      "summary": "Nowy cennik z 17.08.2026 dla rocznika produkcji 2026 dodaje ceny promocyjne Comfort 120 160 zł i Design 126 610 zł (katalog 129 900 / 139 900 zł). Rocznik 2025 nadal 104 600 / 110 600 zł (cennik z 18.08.2026). Wszystko do 30.09.2026, wyłącznie za gotówkę.",
+      "before": "promocja tylko rocznik 2025: 104 600 / 110 600 zł",
+      "after": "rocznik 2025: 104 600 / 110 600 zł; rocznik 2026: 120 160 / 126 610 zł",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/seal-5-dm-i/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Seal 5 DM-i)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-seal-5-dm-i/"
+    },
+    {
+      "id": "2026-09-11-byd-seal-6-dm-i-touring-promotion-changed",
+      "modelSlug": "byd-seal-6-dm-i-touring",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Seal 6 DM-i Touring: karta oferty przechodzi na rocznik 2026 (Boost 145 580 zł)",
+      "summary": "Karta oferty BYD z 11.09.2026 pokazuje tylko rocznik 2026 z promocją Boost 145 580 zł i Comfort 161 850 zł (katalog 159 100 / 187 100 zł) do 30.09.2026. Rocznik 2025 przeniesiono na stronę wyprzedaży: Boost 132 090 zł, Comfort Lite 142 590 zł, bez daty końcowej.",
+      "before": "rocznik 2025: Boost 132 100 zł, Comfort 146 000 zł (promocja)",
+      "after": "rocznik 2026: Boost 145 580 zł, Comfort 161 850 zł; rocznik 2025 w wyprzedaży od 132 090 zł",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/seal-6-dm-i-touring/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Seal 6 DM-i Touring)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-seal-6-dm-i-touring/"
+    },
+    {
+      "id": "2026-09-11-byd-seal-6-dm-i-promotion-added",
+      "modelSlug": "byd-seal-6-dm-i",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "added",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Seal 6 DM-i: promocja rocznika 2026 — Boost 139 630 zł, Comfort 156 220 zł",
+      "summary": "Obok promocji rocznika 2025 (126 700 / 137 600 / 140 900 zł) karta oferty dodaje ceny promocyjne rocznika 2026: Boost 139 630 zł i Comfort 156 220 zł. Do 30.09.2026, wyłącznie za gotówkę.",
+      "before": "promocja tylko rocznik 2025",
+      "after": "rocznik 2025 od 126 700 zł, rocznik 2026 od 139 630 zł",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/seal-6-dm-i/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Seal 6 DM-i)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-seal-6-dm-i/"
+    },
+    {
+      "id": "2026-09-11-byd-seal-6-dm-i-versions-added",
+      "modelSlug": "byd-seal-6-dm-i",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "versions",
+      "kind": "added",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Seal 6 DM-i: wersja Comfort Lite wróciła do oferty rocznika 2025",
+      "summary": "Karta oferty i strona wyprzedaży BYD z 11.09.2026 ponownie wymieniają wersję Comfort Lite (katalog 176 300 zł, promocja 137 600 zł) w roczniku 2025 — korygujemy wcześniejszą notatkę o jej zniknięciu.",
+      "before": "Boost i Comfort",
+      "after": "Boost, Comfort Lite (rocznik 2025) i Comfort",
+      "editorialNote": "Odnotowujemy wersję obecną w oficjalnej ofercie importera 11.09.2026; wcześniejsza notatka o jej braku wynikała ze starszego dokumentu.",
+      "source": {
+        "path": "byd/seal-6-dm-i/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Seal 6 DM-i)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-seal-6-dm-i/"
+    },
+    {
+      "id": "2026-09-11-byd-seal-u-dm-i-promotion-added",
+      "modelSlug": "byd-seal-u-dm-i",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "added",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Seal U DM-i: promocja rocznika 2025 od 142 800 zł obok rocznika 2026",
+      "summary": "Karta oferty z 11.09.2026 dodaje ceny promocyjne rocznika 2025: Boost 142 800, Comfort 149 600, Design 168 000 zł (katalog 169 900 / 199 395 / 209 900 zł). Rocznik 2026 bez zmian: 152 100 / 164 600 / 179 500 zł. Do 30.09.2026, wyłącznie za gotówkę.",
+      "before": "promocja tylko rocznik 2026 od 152 100 zł",
+      "after": "rocznik 2025 od 142 800 zł, rocznik 2026 od 152 100 zł",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/seal-u-dm-i/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Seal U DM-i)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-seal-u-dm-i/"
+    },
+    {
+      "id": "2026-09-11-byd-sealion-7-promotion-added",
+      "modelSlug": "byd-sealion-7",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "added",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "BYD Sealion 7: promocja obejmuje też rocznik 2026 (od 210 010 zł)",
+      "summary": "Obok promocji rocznika 2025 (187 000 / 211 600 / 212 000 zł) karta oferty z 11.09.2026 dodaje ceny promocyjne rocznika 2026: Comfort 210 010, Design AWD 227 910, Excellence AWD 237 990 zł (katalog 219 900 / 239 900 / 247 900 zł). Do 30.09.2026, wyłącznie za gotówkę.",
+      "before": "promocja tylko rocznik 2025 od 187 000 zł",
+      "after": "rocznik 2025 od 187 000 zł, rocznik 2026 od 210 010 zł",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "byd/sealion-7/dane.md",
+        "label": "Karta oferty BYD Polska — odczyt 11.09.2026 (Sealion 7)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-sealion-7/"
+    },
+    {
+      "id": "2026-09-11-mg3-hybrid-price-changed",
+      "modelSlug": "mg3-hybrid",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "price",
+      "kind": "changed",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "MG3 Hybrid+: cena katalogowa wzrosła o ok. 4 000 zł na wersję",
+      "summary": "Cennik R26 z 7.09.2026 podnosi ceny katalogowe: Standard 87 950 zł (było 83 950 zł), Excite 94 500 zł (było 90 500 zł), Exclusive 101 000 zł (było 97 000 zł).",
+      "before": "83 950 / 90 500 / 97 000 zł",
+      "after": "87 950 / 94 500 / 101 000 zł",
+      "editorialNote": "Korygujemy sposób prezentacji ceny na podstawie oficjalnego cennika importera; nie twierdzimy, że importer zmienił cenę sprzedaży, jeśli dokument tego nie mówi.",
+      "source": {
+        "path": "mg/mg3/dane.md",
+        "label": "Cennik MG Polska — odczyt 11.09.2026 (MG3 Hybrid+)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/mg3-hybrid/"
+    },
+    {
+      "id": "2026-09-11-mg4-ev-price-changed",
+      "modelSlug": "mg4-ev",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "price",
+      "kind": "changed",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "MG4 EV: najniższa cena wyprzedaży to 100 900 zł (rocznik 2024), nie 105 900 zł",
+      "summary": "Cennik z 26.06.2026 ma dwa progi wyprzedaży: rocznik 2024 od 100 900 zł i rocznik 2025 od 105 900 zł, przy katalogu 130 900 zł. Pokazujemy najniższy próg jako cenę wyprzedażową i dopisujemy katalog.",
+      "before": "105 900 zł (próg rocznika 2025 jako cena główna)",
+      "after": "100 900 zł wyprzedaż rocznika 2024 · 105 900 zł rocznik 2025 · katalog 130 900 zł",
+      "editorialNote": "Korygujemy sposób prezentacji ceny na podstawie oficjalnego cennika importera; nie twierdzimy, że importer zmienił cenę sprzedaży, jeśli dokument tego nie mówi.",
+      "source": {
+        "path": "mg/mg4-ev/dane.md",
+        "label": "Cennik MG Polska — odczyt 11.09.2026 (MG4 EV)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/mg4-ev/"
+    },
+    {
+      "id": "2026-09-11-mgs5-ev-promotion-changed",
+      "modelSlug": "mgs5-ev",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "MGS5 EV: promocja pogłębiona o 2 000 zł, wyprzedaż rocznika 2025 od 129 900 zł",
+      "summary": "Cenniki z 8.09.2026: rocznik 2026 po promocji 135 900 / 145 900 / 150 900 / 160 900 zł (było 137 900 / 147 900 / 152 900 / 162 900 zł); osobny cennik rocznika 2025 z wyprzedażą 129 900 / 139 900 zł. Katalog bez zmian od 143 900 zł. Do 30.09.2026.",
+      "before": "promocja od 137 900 zł",
+      "after": "promocja od 135 900 zł (rocznik 2026), wyprzedaż od 129 900 zł (rocznik 2025)",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "mg/mgs5-ev/dane.md",
+        "label": "Cennik MG Polska — odczyt 11.09.2026 (MGS5 EV)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/mgs5-ev/"
+    },
+    {
+      "id": "2026-09-11-mg-cyberster-price-changed",
+      "modelSlug": "mg-cyberster",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "price",
+      "kind": "changed",
+      "materiality": "low",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "MG Cyberster: cennik z 19.08.2026 rozdziela cenę katalogową (277 900 zł) od promocyjnej (267 900 zł)",
+      "summary": "Nowy cennik R26 pokazuje osobną cenę katalogową wyższą o 10 000 zł na każdy wariant; ceny sprzedaży 267 900–291 900 zł nie zmieniły się. Oznaczamy 267 900 zł jako cenę promocyjną.",
+      "before": "267 900 zł (traktowane jako katalog)",
+      "after": "267 900 zł promocyjna · 277 900 zł katalogowa",
+      "editorialNote": "Korygujemy sposób prezentacji ceny na podstawie oficjalnego cennika importera; nie twierdzimy, że importer zmienił cenę sprzedaży, jeśli dokument tego nie mówi.",
+      "source": {
+        "path": "mg/mg-cyberster/dane.md",
+        "label": "Cennik MG Polska — odczyt 11.09.2026 (Cyberster)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/mg-cyberster/"
+    },
+    {
+      "id": "2026-09-11-mgs9-phev-promotion-added",
+      "modelSlug": "mgs9-phev",
+      "observedAt": "2026-09-11",
+      "reviewedAt": "2026-09-11",
+      "category": "promotion",
+      "kind": "added",
+      "materiality": "low",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "MGS9 PHEV: kredyt 50/50 RRSO 0% od 86 450 zł wpłaty",
+      "summary": "Zamiast promocji gotówkowej MG oferuje kredyt 50/50 z RRSO 0%: połowa ceny katalogowej przy zakupie (Excite 86 450 zł), reszta w 12. miesiącu. Cennik z 8.09.2026 podaje termin 30.09.2026, strona kampanii 31.10.2026.",
+      "before": "brak aktywnej oferty finansowej z terminem",
+      "after": "kredyt 50/50 RRSO 0% do 30.09.2026 (wg cennika)",
+      "editorialNote": "Zapisujemy stan z oficjalnej karty oferty importera odczytanej 11.09.2026; promocja ma termin i warunek zakupu, których nie interpretujemy szerzej niż dokument.",
+      "source": {
+        "path": "mg/mgs9-phev/dane.md",
+        "label": "Cennik MG Polska — odczyt 11.09.2026 (MGS9 PHEV)",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/mgs9-phev/"
+    },
     {
       "id": "2026-08-24-chery-tiggo-8-warranty-table-completed",
       "modelSlug": "chery-tiggo-8",
