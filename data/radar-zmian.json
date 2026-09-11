@@ -9,9 +9,9 @@
   "usageTerms": "https://nowoczesneauta.pl/radar-zmian/#zasady-wykorzystania",
   "scope": "chińskie marki i modele na rynku polskim: bieżąca oferta, oficjalne zapowiedzi, przedsprzedaż oraz modele wycofane i historyczne; ceny oficjalne, prognozy i ceny archiwalne są rozdzielone",
   "observation": {
-    "snapshotDate": "2026-09-08",
-    "sourceDataDate": "2026-07-31",
-    "monitoredModels": 196,
+    "snapshotDate": "2026-09-11",
+    "sourceDataDate": "2026-09-08",
+    "monitoredModels": 174,
     "dealers": 606,
     "cities": 154
   },
@@ -111,13 +111,13 @@
             "price": 174500
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
         "warrantyVehicle": "3 lata / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 3
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/baw-212/dane.md"
       ]
@@ -131,17 +131,25 @@
         "pricePln": 89900,
         "versions": [
           {
-            "name": "Light Truck",
+            "name": "Skrzynia z burtami",
             "price": 89900
+          },
+          {
+            "name": "Wywrotka Niewiadów",
+            "price": 99900
+          },
+          {
+            "name": "Kontener Niewiadów",
+            "price": 99900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
         "warrantyVehicle": "3 lata / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 3
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/baw-light-truck/dane.md"
       ]
@@ -152,20 +160,24 @@
       "url": "https://nowoczesneauta.pl/modele/baw-pony/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 73900,
+        "pricePln": 69900,
         "versions": [
           {
-            "name": "Pony",
-            "price": 73900
+            "name": "Premium",
+            "price": 69900
+          },
+          {
+            "name": "ER",
+            "price": 77900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
         "warrantyVehicle": "3 lata / 100 000 km",
-        "warrantyBattery": null,
+        "warrantyBattery": "5 lat — limit przebiegu do potwierdzenia",
         "warrantySoh": null,
         "dealerCount": 3
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/baw-pony/dane.md"
       ]
@@ -343,66 +355,6 @@
       "sourceReferences": [
         "baic/bj60/broszura-katalog.pdf",
         "baic/bj60/cennik-2025.pdf"
-      ]
-    },
-    {
-      "slug": "brilliance-bs2",
-      "name": "Brilliance BS2",
-      "url": "https://nowoczesneauta.pl/modele/brilliance-bs2/",
-      "marketStatus": "cancelled_before_launch",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "element planowanej ekspansji obejmującej Polskę; regularna sprzedaż nie została uruchomiona",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/brilliance-bs2/ZRODLA.md",
-        "rynek-2026/brilliance-bs2/dane.md"
-      ]
-    },
-    {
-      "slug": "brilliance-bs4",
-      "name": "Brilliance BS4",
-      "url": "https://nowoczesneauta.pl/modele/brilliance-bs4/",
-      "marketStatus": "cancelled_before_launch",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "element planowanej ekspansji obejmującej Polskę; regularna sprzedaż nie została uruchomiona",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/brilliance-bs4/ZRODLA.md",
-        "rynek-2026/brilliance-bs4/dane.md"
-      ]
-    },
-    {
-      "slug": "brilliance-bs6",
-      "name": "Brilliance BS6",
-      "url": "https://nowoczesneauta.pl/modele/brilliance-bs6/",
-      "marketStatus": "cancelled_before_launch",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "udokumentowany plan wejścia do Polski nie zakończył się regularną sprzedażą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/brilliance-bs6/ZRODLA.md",
-        "rynek-2026/brilliance-bs6/dane.md"
       ]
     },
     {
@@ -963,7 +915,7 @@
         "warrantySoh": null,
         "dealerCount": 9
       },
-      "observedAt": "2026-07-08",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "niszowe/changan-deepal/cs55-plus/dane.md"
       ]
@@ -987,7 +939,7 @@
         "warrantySoh": null,
         "dealerCount": 9
       },
-      "observedAt": "2026-07-08",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "niszowe/changan-deepal/cs75-plus/dane.md"
       ]
@@ -1211,7 +1163,7 @@
         "warrantySoh": null,
         "dealerCount": 9
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "niszowe/changan-deepal/deepal-s05-phev/dane.md"
       ]
@@ -1240,10 +1192,10 @@
         "availability": null,
         "warrantyVehicle": "7 lat / 160 tys. km",
         "warrantyBattery": "8 lat / 200 tys. km",
-        "warrantySoh": null,
+        "warrantySoh": "70%",
         "dealerCount": 9
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "niszowe/changan-deepal/deepal-s05/dane.md"
       ]
@@ -1264,10 +1216,10 @@
         "availability": null,
         "warrantyVehicle": "7 lat / 160 tys. km",
         "warrantyBattery": "8 lat / 200 tys. km",
-        "warrantySoh": null,
+        "warrantySoh": "70%",
         "dealerCount": 9
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "niszowe/changan-deepal/deepal-s07/dane.md"
       ]
@@ -1489,66 +1441,6 @@
       ]
     },
     {
-      "slug": "dfsk-mini-bus-v27",
-      "name": "DFSK Mini Bus / V27",
-      "url": "https://nowoczesneauta.pl/modele/dfsk-mini-bus-v27/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 12
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/dfsk-mini-bus-v27/ZRODLA.md",
-        "rynek-2026/dfsk-mini-bus-v27/dane.md"
-      ]
-    },
-    {
-      "slug": "dfsk-mini-truck",
-      "name": "DFSK Mini Truck",
-      "url": "https://nowoczesneauta.pl/modele/dfsk-mini-truck/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 12
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/dfsk-mini-truck/ZRODLA.md",
-        "rynek-2026/dfsk-mini-truck/dane.md"
-      ]
-    },
-    {
-      "slug": "dfsk-mini-van-v25",
-      "name": "DFSK Mini Van / V25",
-      "url": "https://nowoczesneauta.pl/modele/dfsk-mini-van-v25/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 12
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/dfsk-mini-van-v25/ZRODLA.md",
-        "rynek-2026/dfsk-mini-van-v25/dane.md"
-      ]
-    },
-    {
       "slug": "dongfeng-box",
       "name": "Dongfeng Box",
       "url": "https://nowoczesneauta.pl/modele/dongfeng-box/",
@@ -1707,12 +1599,12 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "7 lat",
+        "warrantyVehicle": "7 lat / 150 tys. km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
         "dealerCount": 2
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "niszowe/exlantix/es/dane.md"
       ]
@@ -1731,12 +1623,12 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "7 lat",
+        "warrantyVehicle": "7 lat / 150 tys. km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
         "dealerCount": 2
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "niszowe/exlantix/et/dane.md"
       ]
@@ -1750,53 +1642,53 @@
         "pricePln": 158864,
         "versions": [
           {
-            "name": "6,95 m³ · 49 kWh · L1H1",
+            "name": "L1H1 · 49 kWh · 6,95 m³",
             "price": 158864
           },
           {
-            "name": "6,95 m³ · 67 kWh · L1H1",
+            "name": "L1H1 · 67 kWh · 6,95 m³",
             "price": 185001
           },
           {
-            "name": "6,95 m³ · 83 kWh · L1H1",
+            "name": "L1H1 · 82,88 kWh · 6,95 m³",
             "price": 198070
           },
           {
-            "name": "8,25 m³ · 67 kWh · L2H1",
+            "name": "L2H1 · 67 kWh · 8,25 m³",
             "price": 194986
           },
           {
-            "name": "8,25 m³ · 83 kWh · L2H1",
+            "name": "L2H1 · 82,88 kWh · 8,25 m³",
             "price": 205441
           },
           {
-            "name": "9,39 m³ · 83 kWh · L2H2",
+            "name": "L2H2 · 82,88 kWh · 9,39 m³",
             "price": 211139
           },
           {
-            "name": "11,22 m³ · 67 kWh · L2H3",
+            "name": "L2H3 · 67 kWh · 11,22 m³",
             "price": 209100
           },
           {
-            "name": "11,22 m³ · 83 kWh · L2H3",
+            "name": "L2H3 · 82,88 kWh · 11,22 m³",
             "price": 219032
           },
           {
-            "name": "13 m³ · 83 kWh · L3H3",
+            "name": "L3H3 · 82,88 kWh · 13 m³",
             "price": 224260
           },
           {
-            "name": "13 m³ · 106 kWh · L3H3",
+            "name": "L3H3 · 106,35 kWh · 13 m³",
             "price": 239942
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-11",
         "warrantyVehicle": "5 lat / 200 000 km",
         "warrantyBattery": "8 lat / 200 000 km",
         "warrantySoh": null,
         "dealerCount": 9
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
         "rynek-2026/farizon-supervan/ZRODLA.md",
         "rynek-2026/farizon-supervan/broszura-pl.pdf",
@@ -1845,7 +1737,7 @@
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/firefly/dane.md",
         "zapowiedzi-2026/firefly/broszura-cennik-nl.pdf",
@@ -2076,13 +1968,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 23
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/foton-aumark-s/ZRODLA.md",
         "rynek-2026/foton-aumark-s/dane.md"
@@ -2096,13 +1988,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
-        "warrantyBattery": "8 lat / 400 000 km — ogólna deklaracja Foton Polska",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "warrantyVehicle": "5 lat / 200 000 km — oferta Power Truck Poland, Cavan 66,67 kWh",
+        "warrantyBattery": "8 lat / 400 000 km — oferta Power Truck Poland, Cavan 66,67 kWh",
         "warrantySoh": null,
         "dealerCount": 23
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/foton-cavan/ZRODLA.md",
         "rynek-2026/foton-cavan/dane.md"
@@ -2116,13 +2008,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
-        "warrantyBattery": "5 lat / 200 000 km dla Electric; PHEV do potwierdzenia",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "warrantyVehicle": null,
+        "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 23
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/foton-eaumark/ZRODLA.md",
         "rynek-2026/foton-eaumark/dane.md"
@@ -2136,13 +2028,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "warrantyVehicle": null,
         "warrantyBattery": "5 lat / 200 000 km",
         "warrantySoh": null,
         "dealerCount": 23
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/foton-emiler/ZRODLA.md",
         "rynek-2026/foton-emiler/dane.md"
@@ -2156,13 +2048,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
-        "warrantyBattery": "8 lat / 400 000 km — ogólna deklaracja Foton Polska",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "warrantyVehicle": null,
+        "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 23
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/foton-etoano-pro/ZRODLA.md",
         "rynek-2026/foton-etoano-pro/dane.md"
@@ -2176,13 +2068,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat / 200 000 km — ogólna deklaracja Foton Polska",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 23
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/foton-tunland-g7/ZRODLA.md",
         "rynek-2026/foton-tunland-g7/dane.md"
@@ -2196,13 +2088,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat / 200 000 km",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "warrantyVehicle": "5 lat / 200 000 km — deklaracja Foton Polska dla V9; inne kanały mają odmienne warunki",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 23
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/foton-tunland-v9/ZRODLA.md",
         "rynek-2026/foton-tunland-v9/dane.md"
@@ -2413,106 +2305,6 @@
       ]
     },
     {
-      "slug": "gonow-ga200",
-      "name": "Gonow GA200",
-      "url": "https://nowoczesneauta.pl/modele/gonow-ga200/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/gonow-ga200/ZRODLA.md",
-        "rynek-2026/gonow-ga200/dane.md"
-      ]
-    },
-    {
-      "slug": "gonow-gx6",
-      "name": "Gonow GX6",
-      "url": "https://nowoczesneauta.pl/modele/gonow-gx6/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/gonow-gx6/ZRODLA.md",
-        "rynek-2026/gonow-gx6/dane.md"
-      ]
-    },
-    {
-      "slug": "great-wall-deer",
-      "name": "GWM Great Wall Deer",
-      "url": "https://nowoczesneauta.pl/modele/great-wall-deer/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/great-wall-deer/ZRODLA.md",
-        "rynek-2026/great-wall-deer/dane.md"
-      ]
-    },
-    {
-      "slug": "great-wall-hover-cuv",
-      "name": "GWM Great Wall Hover CUV",
-      "url": "https://nowoczesneauta.pl/modele/great-wall-hover-cuv/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/great-wall-hover-cuv/ZRODLA.md",
-        "rynek-2026/great-wall-hover-cuv/dane.md"
-      ]
-    },
-    {
-      "slug": "great-wall-steed",
-      "name": "GWM Great Wall Steed",
-      "url": "https://nowoczesneauta.pl/modele/great-wall-steed/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/great-wall-steed/ZRODLA.md",
-        "rynek-2026/great-wall-steed/dane.md"
-      ]
-    },
-    {
       "slug": "gwm-haval-h7",
       "name": "GWM Haval H7",
       "url": "https://nowoczesneauta.pl/modele/gwm-haval-h7/",
@@ -2521,14 +2313,16 @@
         "pricePln": null,
         "versions": [],
         "availability": "oficjalna zapowiedź dla Polski; termin niepotwierdzony",
-        "warrantyVehicle": null,
+        "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
-        "rynek-2026/gwm-haval-h7/dane.md"
+        "rynek-2026/gwm-haval-h7/dane.md",
+        "rynek-2026/gwm-haval-h7/premiera-europa-2026-08.pdf",
+        "rynek-2026/gwm-ora-5/gwarancja-pl-2026-09.pdf"
       ]
     },
     {
@@ -2540,55 +2334,54 @@
         "pricePln": null,
         "versions": [],
         "availability": "oficjalna zapowiedź dla Polski; termin niepotwierdzony",
-        "warrantyVehicle": null,
+        "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
-        "rynek-2026/gwm-jolion-max/dane.md"
+        "rynek-2026/gwm-jolion-max/dane.md",
+        "rynek-2026/gwm-jolion-max/specyfikacja-chile-2026-04.pdf",
+        "rynek-2026/gwm-ora-5/gwarancja-pl-2026-09.pdf"
       ]
     },
     {
       "slug": "gwm-ora-5",
       "name": "GWM ORA 5",
       "url": "https://nowoczesneauta.pl/modele/gwm-ora-5/",
-      "marketStatus": "official_pl_announced",
+      "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "oficjalna zapowiedź dla Polski; lato 2026",
-        "warrantyVehicle": null,
+        "pricePln": 109900,
+        "versions": [
+          {
+            "name": "1.5T 7DCT · Signature",
+            "price": 109900
+          },
+          {
+            "name": "1.5T 7DCT · Infinity",
+            "price": 120900
+          },
+          {
+            "name": "Hybrid 1.5T DHT · Signature",
+            "price": 118990
+          },
+          {
+            "name": "Hybrid 1.5T DHT · Infinity",
+            "price": 129990
+          }
+        ],
+        "availability": "oficjalna oferta w Polsce; cennik od 2026-09-04",
+        "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
+        "rynek-2026/gwm-ora-5/cennik-pl-2026-09-04.pdf",
         "rynek-2026/gwm-ora-5/dane.md",
-        "zapowiedzi-2026/gwm-ora-5/dane.md",
-        "zapowiedzi-2026/gwm-ora-5/specyfikacja-eu-es.pdf"
-      ]
-    },
-    {
-      "slug": "haval-h6",
-      "name": "GWM Haval H6 (2015)",
-      "url": "https://nowoczesneauta.pl/modele/haval-h6/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/haval-h6/ZRODLA.md",
-        "rynek-2026/haval-h6/dane.md"
+        "rynek-2026/gwm-ora-5/gwarancja-pl-2026-09.pdf"
       ]
     },
     {
@@ -3272,26 +3065,6 @@
       ]
     },
     {
-      "slug": "landwind-x6-x-pedition",
-      "name": "Landwind X6 / X-Pedition",
-      "url": "https://nowoczesneauta.pl/modele/landwind-x6-x-pedition/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/landwind-x6-x-pedition/ZRODLA.md",
-        "rynek-2026/landwind-x6-x-pedition/dane.md"
-      ]
-    },
-    {
       "slug": "leapmotor-b03x",
       "name": "Leapmotor B03X",
       "url": "https://nowoczesneauta.pl/modele/leapmotor-b03x/",
@@ -3549,11 +3322,12 @@
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
         "zapowiedzi-2026/lepas/ZRODLA.md",
         "zapowiedzi-2026/lepas/l4/ZRODLA.md",
-        "zapowiedzi-2026/lepas/l4/dane.md"
+        "zapowiedzi-2026/lepas/l4/dane.md",
+        "zapowiedzi-2026/lepas/l4/specyfikacja-rpa-2026.pdf"
       ]
     },
     {
@@ -3570,7 +3344,7 @@
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
         "zapowiedzi-2026/lepas/ZRODLA.md",
         "zapowiedzi-2026/lepas/l6/ZRODLA.md",
@@ -3591,7 +3365,7 @@
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
         "zapowiedzi-2026/lepas/ZRODLA.md",
         "zapowiedzi-2026/lepas/l8/ZRODLA.md",
@@ -3903,25 +3677,6 @@
       ]
     },
     {
-      "slug": "maxus-et90",
-      "name": "Maxus eT90",
-      "url": "https://nowoczesneauta.pl/modele/maxus-et90/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 27
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/maxus-et90/dane.md"
-      ]
-    },
-    {
       "slug": "maxus-eterron-9-luxury",
       "name": "Maxus eTerron 9",
       "url": "https://nowoczesneauta.pl/modele/maxus-eterron-9-luxury/",
@@ -3939,83 +3694,6 @@
       "sourceReferences": [
         "niszowe/maxus/eterron-9/dane.md",
         "rynek-2026/maxus-eterron-9-luxury/dane.md"
-      ]
-    },
-    {
-      "slug": "maxus-euniq-5",
-      "name": "Maxus Euniq 5",
-      "url": "https://nowoczesneauta.pl/modele/maxus-euniq-5/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 27
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/maxus-euniq-5/dane.md"
-      ]
-    },
-    {
-      "slug": "maxus-euniq-6",
-      "name": "Maxus Euniq 6",
-      "url": "https://nowoczesneauta.pl/modele/maxus-euniq-6/",
-      "marketStatus": "withdrawn",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "wycofany z regularnej sprzedaży w Polsce",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 27
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/maxus-euniq-6/dane.md"
-      ]
-    },
-    {
-      "slug": "maxus-ev80",
-      "name": "Maxus EV80",
-      "url": "https://nowoczesneauta.pl/modele/maxus-ev80/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 27
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/maxus-ev80/ZRODLA.md",
-        "rynek-2026/maxus-ev80/dane.md"
-      ]
-    },
-    {
-      "slug": "maxus-mifa-9",
-      "name": "Maxus Mifa 9",
-      "url": "https://nowoczesneauta.pl/modele/maxus-mifa-9/",
-      "marketStatus": "withdrawn",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "wycofany z regularnej sprzedaży w Polsce",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 27
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/maxus-mifa-9/dane.md"
       ]
     },
     {
@@ -4449,16 +4127,22 @@
       "url": "https://nowoczesneauta.pl/modele/mhero-917/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
+        "pricePln": 799000,
+        "versions": [
+          {
+            "name": "917 BEV · cztery silniki AWD",
+            "price": 799000
+          }
+        ],
+        "availability": "Polska oferta 917 BEV; cena opublikowana, odczyt 11.09.2026",
+        "warrantyVehicle": "5 lat / 150 000 km według MHERO Polska",
+        "warrantyBattery": "8 lat / 160 000 km — akumulator i napęd",
         "warrantySoh": null,
         "dealerCount": 2
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
+        "mhero/917/odczyt-2026-09-11.md",
         "rynek-2026/mhero-917/dane.md"
       ]
     },
@@ -4466,18 +4150,28 @@
       "slug": "mhero-m817",
       "name": "MHERO M817",
       "url": "https://nowoczesneauta.pl/modele/mhero-m817/",
-      "marketStatus": "official_pl_announced",
+      "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "oficjalna zapowiedź dla Polski; termin niepotwierdzony",
+        "pricePln": 289000,
+        "versions": [
+          {
+            "name": "E0 · PHEV AWD",
+            "price": 289000
+          },
+          {
+            "name": "E1+α · PHEV AWD",
+            "price": 319000
+          }
+        ],
+        "availability": "Polska oferta E0 i E1+α; ceny opublikowane, dostępność do potwierdzenia",
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 2
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
+        "mhero/m817/odczyt-2026-09-11.md",
         "rynek-2026/mhero-m817/dane.md",
         "zapowiedzi-2026/mhero-m817/cennik-specyfikacja-sk.pdf",
         "zapowiedzi-2026/mhero-m817/dane.md"
@@ -4497,7 +4191,7 @@
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/nio-el6/dane.md",
         "zapowiedzi-2026/nio-el6/cennik-specyfikacja-de.pdf",
@@ -4518,7 +4212,7 @@
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/nio-el8/dane.md",
         "zapowiedzi-2026/nio-el8/cennik-specyfikacja-de.pdf",
@@ -4539,7 +4233,7 @@
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/nio-et5/dane.md",
         "zapowiedzi-2026/nio-et5/cennik-specyfikacja-nl.pdf",
@@ -4560,7 +4254,7 @@
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-10",
       "sourceReferences": [
         "rynek-2026/nio-et5-touring/dane.md",
         "zapowiedzi-2026/nio-et5-touring/cennik-specyfikacja-de.pdf",
@@ -4726,70 +4420,32 @@
       ]
     },
     {
-      "slug": "seres-3",
-      "name": "Seres 3",
-      "url": "https://nowoczesneauta.pl/modele/seres-3/",
-      "marketStatus": "withdrawn",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "wycofany ze sprzedaży w PL (03/2024) — tylko rynek wtórny",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-08",
-      "sourceReferences": [
-        "niszowe/dfsk-seres/_marka.md",
-        "niszowe/dfsk-seres/seres-3/dane.md"
-      ]
-    },
-    {
-      "slug": "seres-5",
-      "name": "Seres 5",
-      "url": "https://nowoczesneauta.pl/modele/seres-5/",
-      "marketStatus": "cancelled_before_launch",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "udokumentowany plan wejścia do Polski nie zakończył się regularną sprzedażą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/seres-5/dane.md"
-      ]
-    },
-    {
       "slug": "skywell-et5",
       "name": "Skywell ET5",
       "url": "https://nowoczesneauta.pl/modele/skywell-et5/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 219990,
+        "pricePln": 208990,
         "versions": [
           {
             "name": "COMFORT",
-            "price": 219990
+            "price": 208990
           },
           {
             "name": "LUXURY",
-            "price": 244990
+            "price": 229990
           }
         ],
         "availability": null,
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
+        "warrantyVehicle": "3 lata / 120 000 km (FAQ importera; szczegółowe warunki do potwierdzenia)",
+        "warrantyBattery": "8 lat / 150 000 km (FAQ importera; próg SoH niepodany)",
         "warrantySoh": null,
         "dealerCount": 0
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
         "niszowe/skywell/_marka.md",
+        "niszowe/skywell/_marka/cennik-et5-2023.pdf",
         "niszowe/skywell/_marka/cennik-et5.pdf",
         "niszowe/skywell/et5/dane.md"
       ]
@@ -4800,24 +4456,25 @@
       "url": "https://nowoczesneauta.pl/modele/swm-g01-pro/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 114900,
+        "pricePln": 99900,
         "versions": [
           {
-            "name": "G01 Pro",
-            "price": 114900
+            "name": "G01 Pro 1.5 turbo 7DCT · rocznik 2025",
+            "price": 99900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": null,
+        "availability": "Centralna promocja rocznika 2025; ograniczony zapas, odczyt 11.09.2026",
+        "warrantyVehicle": "5 lat / 100 000 km; krótsze okresy dla wybranych części w OWG",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 15
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
         "rynek-2026/swm-g01-pro/dane.md",
         "swm/g01-pro/broszura-2026-07-31.pdf",
-        "swm/g01-pro/dane.md"
+        "swm/g01-pro/dane.md",
+        "swm/g01-pro/odczyt-2026-09-11.md"
       ]
     },
     {
@@ -4826,24 +4483,25 @@
       "url": "https://nowoczesneauta.pl/modele/swm-g03f/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 79900,
+        "pricePln": 69900,
         "versions": [
           {
-            "name": "G03F",
-            "price": 79900
+            "name": "G03F 1.5 MT · rocznik 2025",
+            "price": 69900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": null,
+        "availability": "Promocja rocznika 2025; ograniczony zapas — odczyt 11.09.2026",
+        "warrantyVehicle": "5 lat / 100 000 km; z ograniczeniami OWG",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 15
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
         "rynek-2026/swm-g03f/dane.md",
         "swm/g03f/broszura-2026-07-31.pdf",
-        "swm/g03f/dane.md"
+        "swm/g03f/dane.md",
+        "swm/g03f/odczyt-2026-09-11.md"
       ]
     },
     {
@@ -4855,21 +4513,22 @@
         "pricePln": 99900,
         "versions": [
           {
-            "name": "G05 — promocja dealera",
+            "name": "G05 1.5 turbo 7DCT · rocznik 2025",
             "price": 99900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": null,
+        "availability": "Centralna promocja rocznika 2025, ograniczony zapas; odczyt 11.09.2026",
+        "warrantyVehicle": "5 lat / 100 000 km; ograniczenia OWG",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 15
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-11",
       "sourceReferences": [
         "rynek-2026/swm-g05/dane.md",
         "swm/g05/cennik-2026-07-31.pdf",
-        "swm/g05/dane.md"
+        "swm/g05/dane.md",
+        "swm/g05/odczyt-2026-09-11.md"
       ]
     },
     {
@@ -4886,8 +4545,8 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "5 lat / 100 000 km (dane prasowe dla marki, nie potwierdzone specyficznie dla Courage)",
-        "warrantyBattery": "8 lat / 200 000 km (EV-Database, rynek NL — rozbieżne z 160 000 km podawanym dla Free/Dream w prasie PL)",
+        "warrantyVehicle": null,
+        "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 27
       },
@@ -4911,8 +4570,8 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "5 lat / 100 000 km (dane prasowe, nie z dokumentu producenta)",
-        "warrantyBattery": "8 lat / 160 000 km (dane prasowe, nie z dokumentu producenta)",
+        "warrantyVehicle": null,
+        "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 27
       },
@@ -4936,8 +4595,8 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "5 lat / 100 000 km (dane prasowe, nie z dokumentu producenta)",
-        "warrantyBattery": "8 lat / 160 000 km (dane prasowe, nie z dokumentu producenta)",
+        "warrantyVehicle": null,
+        "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 27
       },
@@ -5130,46 +4789,6 @@
       "sourceReferences": [
         "xpeng/x9/cennik-05-2026.pdf",
         "xpeng/x9/instrukcja-06-2026.pdf"
-      ]
-    },
-    {
-      "slug": "zd-d2s",
-      "name": "ZD D2S",
-      "url": "https://nowoczesneauta.pl/modele/zd-d2s/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/zd-d2s/ZRODLA.md",
-        "rynek-2026/zd-d2s/dane.md"
-      ]
-    },
-    {
-      "slug": "zx-auto-grand-tiger",
-      "name": "ZX Auto Grand Tiger",
-      "url": "https://nowoczesneauta.pl/modele/zx-auto-grand-tiger/",
-      "marketStatus": "historical",
-      "current": {
-        "pricePln": null,
-        "versions": [],
-        "availability": "model historyczny; poza bieżącą polską gamą",
-        "warrantyVehicle": null,
-        "warrantyBattery": null,
-        "warrantySoh": null,
-        "dealerCount": 0
-      },
-      "observedAt": "2026-07-31",
-      "sourceReferences": [
-        "rynek-2026/zx-auto-grand-tiger/ZRODLA.md",
-        "rynek-2026/zx-auto-grand-tiger/dane.md"
       ]
     }
   ],
@@ -6011,358 +5630,6 @@
         "type": "dossier"
       },
       "modelUrl": "https://nowoczesneauta.pl/modele/omoda-4/"
-    },
-    {
-      "id": "2026-07-31-brilliance-bs2-coverage-added",
-      "modelSlug": "brilliance-bs2",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "uncertain",
-      "status": "published",
-      "title": "Dodano Brilliance BS2 do audytu polskiego rynku",
-      "summary": "BS2 należał do europejskiego programu HSO, a ogólny plan ekspansji obejmował Polskę. Brak bezpośredniej, datowanej zapowiedzi modelu dla Polski i dowodu regularnej sprzedaży; siła dowodu pozostaje pośrednia.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Niezrealizowany plan ekspansji obejmującej Polskę",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/brilliance-bs2/dane.md",
-        "label": "Dossier rynku polskiego: Brilliance BS2",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/brilliance-bs2/"
-    },
-    {
-      "id": "2026-07-31-brilliance-bs4-coverage-added",
-      "modelSlug": "brilliance-bs4",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "uncertain",
-      "status": "published",
-      "title": "Dodano Brilliance BS4 do audytu polskiego rynku",
-      "summary": "BS4 należał do europejskiego programu HSO, a ogólny plan ekspansji obejmował Polskę. Brak bezpośredniej, datowanej zapowiedzi modelu dla Polski i dowodu regularnej sprzedaży; siła dowodu pozostaje pośrednia.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Niezrealizowany plan ekspansji obejmującej Polskę",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/brilliance-bs4/dane.md",
-        "label": "Dossier rynku polskiego: Brilliance BS4",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/brilliance-bs4/"
-    },
-    {
-      "id": "2026-07-31-brilliance-bs6-coverage-added",
-      "modelSlug": "brilliance-bs6",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "uncertain",
-      "status": "published",
-      "title": "Dodano Brilliance BS6 do audytu polskiego rynku",
-      "summary": "Brilliance BS6 był zapowiadany dla Polski już w 2006 roku i ponownie w planie na 2008, ale regularna sprzedaż nie została potwierdzona. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Polska premiera anulowana",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/brilliance-bs6/dane.md",
-        "label": "Dossier rynku polskiego: Brilliance BS6",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/brilliance-bs6/"
-    },
-    {
-      "id": "2026-07-31-dfsk-mini-bus-v27-coverage-added",
-      "modelSlug": "dfsk-mini-bus-v27",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano DFSK Mini Bus / V27 do audytu polskiego rynku",
-      "summary": "DFSK Mini Bus, później V27, był oficjalnie importowany do Polski jako mały pojazd pasażersko-użytkowy i został wycofany. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/dfsk-mini-bus-v27/dane.md",
-        "label": "Dossier rynku polskiego: DFSK Mini Bus / V27",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/dfsk-mini-bus-v27/"
-    },
-    {
-      "id": "2026-07-31-dfsk-mini-truck-coverage-added",
-      "modelSlug": "dfsk-mini-truck",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano DFSK Mini Truck do audytu polskiego rynku",
-      "summary": "DFSK Mini Truck był sprzedawany przez oficjalnego polskiego importera w pierwszej gamie lekkich pojazdów użytkowych marki. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/dfsk-mini-truck/dane.md",
-        "label": "Dossier rynku polskiego: DFSK Mini Truck",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/dfsk-mini-truck/"
-    },
-    {
-      "id": "2026-07-31-dfsk-mini-van-v25-coverage-added",
-      "modelSlug": "dfsk-mini-van-v25",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano DFSK Mini Van / V25 do audytu polskiego rynku",
-      "summary": "DFSK Mini Van, później oznaczany V25, był częścią oficjalnej polskiej oferty lekkich aut użytkowych i nie jest już sprzedawany. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/dfsk-mini-van-v25/dane.md",
-        "label": "Dossier rynku polskiego: DFSK Mini Van / V25",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/dfsk-mini-van-v25/"
-    },
-    {
-      "id": "2026-07-31-gonow-ga200-coverage-added",
-      "modelSlug": "gonow-ga200",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano Gonow GA200 do audytu polskiego rynku",
-      "summary": "Gonow GA200 był homologowany i wprowadzony do polskiej oferty przez SUV Polska około 2010 roku; marka nie prowadzi dziś oficjalnej sprzedaży. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/gonow-ga200/dane.md",
-        "label": "Dossier rynku polskiego: Gonow GA200",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/gonow-ga200/"
-    },
-    {
-      "id": "2026-07-31-gonow-gx6-coverage-added",
-      "modelSlug": "gonow-gx6",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano Gonow GX6 do audytu polskiego rynku",
-      "summary": "Gonow GX6 znajdował się w oficjalnej, homologowanej ofercie SUV Polska około 2010 roku i został później wycofany wraz z marką. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/gonow-gx6/dane.md",
-        "label": "Dossier rynku polskiego: Gonow GX6",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/gonow-gx6/"
-    },
-    {
-      "id": "2026-07-31-great-wall-deer-coverage-added",
-      "modelSlug": "great-wall-deer",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "uncertain",
-      "status": "published",
-      "title": "Dodano GWM Great Wall Deer do audytu polskiego rynku",
-      "summary": "Pickup Great Wall Deer był elementem formalnej polskiej oferty importera około 2006–2008 roku i nie należy do dzisiejszej gamy GWM. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/great-wall-deer/dane.md",
-        "label": "Dossier rynku polskiego: GWM Great Wall Deer",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/great-wall-deer/"
-    },
-    {
-      "id": "2026-07-31-great-wall-hover-cuv-coverage-added",
-      "modelSlug": "great-wall-hover-cuv",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "uncertain",
-      "status": "published",
-      "title": "Dodano GWM Great Wall Hover CUV do audytu polskiego rynku",
-      "summary": "Great Wall Hover CUV znajdował się w formalnej polskiej ofercie importera w pierwszej fali obecności marki, choć skala dostaw klientom pozostaje słabo udokumentowana. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/great-wall-hover-cuv/dane.md",
-        "label": "Dossier rynku polskiego: GWM Great Wall Hover CUV",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/great-wall-hover-cuv/"
-    },
-    {
-      "id": "2026-07-31-great-wall-steed-coverage-added",
-      "modelSlug": "great-wall-steed",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano GWM Great Wall Steed do audytu polskiego rynku",
-      "summary": "Great Wall Steed był regularnie oferowany w Polsce wraz z Havalem H6 od 2015 roku i został później usunięty z rynku. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/great-wall-steed/dane.md",
-        "label": "Dossier rynku polskiego: GWM Great Wall Steed",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/great-wall-steed/"
-    },
-    {
-      "id": "2026-07-31-haval-h6-coverage-added",
-      "modelSlug": "haval-h6",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano GWM Haval H6 (2015) do audytu polskiego rynku",
-      "summary": "Haval H6 wszedł do regularnej polskiej oferty w 2015 roku z publicznymi cenami i gwarancją, lecz tamta generacja została wycofana. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/haval-h6/dane.md",
-        "label": "Dossier rynku polskiego: GWM Haval H6 (2015)",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/haval-h6/"
-    },
-    {
-      "id": "2026-07-31-landwind-x6-x-pedition-coverage-added",
-      "modelSlug": "landwind-x6-x-pedition",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano Landwind X6 / X-Pedition do audytu polskiego rynku",
-      "summary": "Landwind Polska wprowadził terenowy model X-Pedition/X6 w 2005 roku, po czym sprzedaż zakończyła się po krótkiej obecności marki. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/landwind-x6-x-pedition/dane.md",
-        "label": "Dossier rynku polskiego: Landwind X6 / X-Pedition",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/landwind-x6-x-pedition/"
-    },
-    {
-      "id": "2026-07-31-maxus-ev80-coverage-added",
-      "modelSlug": "maxus-ev80",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano Maxus EV80 do audytu polskiego rynku",
-      "summary": "EV80 był od 2018 roku dostępny w Polsce flotowo w najmie i leasingu Hitachi Capital/Planet Car Lease; nie był modelem późniejszej regularnej sieci RSA Maxus. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/maxus-ev80/dane.md",
-        "label": "Dossier rynku polskiego: Maxus EV80",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/maxus-ev80/"
-    },
-    {
-      "id": "2026-07-31-zd-d2s-coverage-added",
-      "modelSlug": "zd-d2s",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano ZD D2S do audytu polskiego rynku",
-      "summary": "Electric Vehicles Poland oficjalnie wprowadził ZD D2S do Polski w 2018 roku; model nie występuje już w bieżącej oficjalnej sprzedaży. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/zd-d2s/dane.md",
-        "label": "Dossier rynku polskiego: ZD D2S",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/zd-d2s/"
-    },
-    {
-      "id": "2026-07-31-zx-auto-grand-tiger-coverage-added",
-      "modelSlug": "zx-auto-grand-tiger",
-      "observedAt": "2026-07-31",
-      "reviewedAt": "2026-07-31",
-      "category": "availability",
-      "kind": "added",
-      "materiality": "medium",
-      "confidence": "confirmed",
-      "status": "published",
-      "title": "Dodano ZX Auto Grand Tiger do audytu polskiego rynku",
-      "summary": "ZX Auto Grand Tiger uzyskał polską homologację i był montowany oraz dystrybuowany przez POL-MOT Warfama; projekt nie jest dziś aktywny. Rekord dodano po przeglądzie kompletności producentów, modeli i historii rynku.",
-      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
-      "after": "Model historyczny",
-      "editorialNote": "Rekord przeszedł przegląd źródeł, statusu, ceny i zakresu danych; braki pozostają jawnie opisane.",
-      "source": {
-        "path": "rynek-2026/zx-auto-grand-tiger/dane.md",
-        "label": "Dossier rynku polskiego: ZX Auto Grand Tiger",
-        "type": "dossier"
-      },
-      "modelUrl": "https://nowoczesneauta.pl/modele/zx-auto-grand-tiger/"
     },
     {
       "id": "2026-07-13-bestune-t77-clearance-withdrawn",
