@@ -1,27 +1,27 @@
 ﻿slug,nazwa,url,status_rynkowy,cena_od_pln,liczba_wersji,dostepnosc,gwarancja_pojazdu,gwarancja_baterii,prog_soh,liczba_salonow,stan_danych
-baic-3,BAIC 3 LUXURY,https://nowoczesneauta.pl/modele/baic-3/,official_pl_current,84900,1,,5 lat / 100 000 km,,,47,2026-08-04
-baic-5,BAIC 5 BUSINESS,https://nowoczesneauta.pl/modele/baic-5/,official_pl_current,99900,2,,5 lat / 100 000 km,,,47,2026-08-04
-baic-7,BAIC 7,https://nowoczesneauta.pl/modele/baic-7/,official_pl_current,164900,1,,5 lat / 100 000 km,,,47,2026-07-08
-baw-212,BAW 212,https://nowoczesneauta.pl/modele/baw-212/,official_pl_current,174500,1,oficjalna oferta w Polsce; stan 2026-09-10,3 lata / 100 000 km,,,3,2026-09-10
-baw-light-truck,BAW Light Truck,https://nowoczesneauta.pl/modele/baw-light-truck/,official_pl_current,89900,3,oficjalna oferta w Polsce; stan 2026-09-10,3 lata / 100 000 km,,,3,2026-09-10
-baw-pony,BAW Pony,https://nowoczesneauta.pl/modele/baw-pony/,official_pl_current,69900,2,oficjalna oferta w Polsce; stan 2026-09-10,3 lata / 100 000 km,5 lat — limit przebiegu do potwierdzenia,,3,2026-09-10
-bestune-b70,Bestune B70,https://nowoczesneauta.pl/modele/bestune-b70/,official_pl_current,99900,2,,5 lat / 150 tys. km,,,29,2026-08-04
-bestune-t77,Bestune T77,https://nowoczesneauta.pl/modele/bestune-t77/,official_pl_current,89900,3,,5 lat / 150 tys. km,,,29,2026-08-04
-bestune-t90,Bestune T90,https://nowoczesneauta.pl/modele/bestune-t90/,official_pl_current,109900,3,,5 lat / 150 tys. km,,,29,2026-08-04
-bj30,BAIC BJ30,https://nowoczesneauta.pl/modele/bj30/,official_pl_current,175000,2,,5 lat / 100 000 km,,,47,2026-07-08
-bj40,BAIC BJ40,https://nowoczesneauta.pl/modele/bj40/,official_pl_presale,219900,1,oficjalna przedsprzedaż od 17 czerwca 2026; termin pierwszych wydań niepotwierdzony,5 lat / 100 000 km,,,47,2026-07-31
-bj60,BAIC BJ60 FLAGSHIP,https://nowoczesneauta.pl/modele/bj60/,official_pl_current,299900,1,,5 lat / 100 000 km,,,47,2026-07-08
-byd-atto-2,BYD ATTO 2,https://nowoczesneauta.pl/modele/byd-atto-2/,official_pl_current,129900,3,,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-07-16
-byd-atto-2-dm-i,BYD ATTO 2 DM-i,https://nowoczesneauta.pl/modele/byd-atto-2-dm-i/,official_pl_current,120740,2,,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-07-16
-byd-atto-3-evo,BYD ATTO 3 EVO,https://nowoczesneauta.pl/modele/byd-atto-3-evo/,official_pl_current,181600,2,,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-07-16
-byd-dolphin,BYD Dolphin,https://nowoczesneauta.pl/modele/byd-dolphin/,official_pl_current,149000,2,oficjalna oferta w Polsce; stan 2026-07-31,6 lat / 150 tys. km,8 lat / 250 tys. km,,47,2026-07-31
-byd-dolphin-g-dm-i,BYD Dolphin G DM-i,https://nowoczesneauta.pl/modele/byd-dolphin-g-dm-i/,official_pl_presale,120800,4,oficjalna przedsprzedaż w Polsce; planowane dostawy: październik 2026,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-07-31
-byd-dolphin-surf,BYD Dolphin Surf,https://nowoczesneauta.pl/modele/byd-dolphin-surf/,official_pl_current,97700,2,,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-07-16
-byd-e-vali,BYD E-Vali,https://nowoczesneauta.pl/modele/byd-e-vali/,official_pl_current,,0,oficjalna oferta w Polsce; stan 2026-07-31,,,,47,2026-07-31
-byd-eth8,BYD ETH8,https://nowoczesneauta.pl/modele/byd-eth8/,official_pl_current,,0,oficjalna oferta w Polsce; stan 2026-07-31,,,,47,2026-07-31
-byd-etm6,BYD ETM6,https://nowoczesneauta.pl/modele/byd-etm6/,official_pl_current,,0,oficjalna oferta w Polsce; stan 2026-07-31,,,,47,2026-07-31
-byd-etp3,BYD ETP3 eVan,https://nowoczesneauta.pl/modele/byd-etp3/,official_pl_current,,0,oficjalna oferta w Polsce; stan 2026-07-31,,,,47,2026-07-31
-byd-seal,BYD Seal,https://nowoczesneauta.pl/modele/byd-seal/,official_pl_current,217400,2,,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-09-08
+baic-3,BAIC 3 LUXURY,https://nowoczesneauta.pl/modele/baic-3/,official_pl_current,74900,1,,5 lat / 100 000 km,,,47,2026-09-13
+baic-5,BAIC 5 BUSINESS,https://nowoczesneauta.pl/modele/baic-5/,official_pl_current,97900,2,,5 lat / 100 000 km,,,47,2026-09-13
+baic-7,BAIC 7,https://nowoczesneauta.pl/modele/baic-7/,official_pl_current,136000,1,,5 lat / 100 000 km,,,47,2026-09-13
+baw-212,BAW 212,https://nowoczesneauta.pl/modele/baw-212/,official_pl_current,174500,1,oficjalna oferta w Polsce; stan 2026-09-13,3 lata / 100 000 km,,,3,2026-09-13
+baw-light-truck,BAW Light Truck,https://nowoczesneauta.pl/modele/baw-light-truck/,official_pl_current,89900,3,oficjalna oferta w Polsce; stan 2026-09-13,3 lata / 100 000 km,,,3,2026-09-13
+baw-pony,BAW Pony,https://nowoczesneauta.pl/modele/baw-pony/,official_pl_current,69900,2,oficjalna oferta w Polsce; stan 2026-09-13,3 lata / 100 000 km w ofercie BAW; warunki dla egzemplarza do potwierdzenia,5 lat — limit przebiegu do potwierdzenia,,3,2026-09-13
+bestune-b70,Bestune B70,https://nowoczesneauta.pl/modele/bestune-b70/,official_pl_current,99900,2,2026-09-13,5 lat / 150 000 km,,,29,2026-09-13
+bestune-t77,Bestune T77,https://nowoczesneauta.pl/modele/bestune-t77/,official_pl_current,89900,3,2026-09-13,5 lat / 150 000 km,,,29,2026-09-13
+bestune-t90,Bestune T90,https://nowoczesneauta.pl/modele/bestune-t90/,official_pl_current,109900,3,2026-09-13,5 lat / 150 000 km,,,29,2026-09-13
+bj30,BAIC BJ30,https://nowoczesneauta.pl/modele/bj30/,official_pl_current,169500,2,,5 lat / 100 000 km,,,47,2026-09-13
+bj40,BAIC BJ40,https://nowoczesneauta.pl/modele/bj40/,official_pl_presale,219900,1,oficjalna przedsprzedaż według karty importera; termin odbioru do ustalenia dla egzemplarza,5 lat / 100 000 km,,,47,2026-09-13
+bj60,BAIC BJ60 FLAGSHIP,https://nowoczesneauta.pl/modele/bj60/,official_pl_current,276900,1,,5 lat / 100 000 km,,,47,2026-09-13
+byd-atto-2,BYD ATTO 2,https://nowoczesneauta.pl/modele/byd-atto-2/,official_pl_current,129900,3,,6 lat / 150 000 km,8 lat / 250 000 km — deklaracja BYD; dostępny PDF: 200 000 km,70% — próg w PDF warunków,47,2026-09-13
+byd-atto-2-dm-i,BYD ATTO 2 DM-i,https://nowoczesneauta.pl/modele/byd-atto-2-dm-i/,official_pl_current,120740,2,,6 lat / 150 000 km,8 lat / 250 000 km — deklaracja polskiej oferty,,47,2026-09-13
+byd-atto-3-evo,BYD ATTO 3 EVO,https://nowoczesneauta.pl/modele/byd-atto-3-evo/,official_pl_current,181600,2,,6 lat / 150 000 km,8 lat / 250 000 km,,47,2026-09-13
+byd-dolphin,BYD Dolphin,https://nowoczesneauta.pl/modele/byd-dolphin/,official_pl_current,149000,2,"Oficjalny cennik PL od 16.07.2026; promocja produkcji 2025, roku modelowego 2026, do 30.09.2026 lub wyczerpania zapasów.",6 lat / 150 000 km,8 lat / 250 000 km,70% (PDF z limitem 200 000 km),47,2026-09-13
+byd-dolphin-g-dm-i,BYD Dolphin G DM-i,https://nowoczesneauta.pl/modele/byd-dolphin-g-dm-i/,official_pl_presale,120800,4,Oficjalna przedsprzedaż w Polsce; strona BYD nie podaje terminu pierwszych dostaw. Termin konkretnego auta do ustalenia.,6 lat / 150 000 km,8 lat / 250 000 km,,47,2026-09-13
+byd-dolphin-surf,BYD Dolphin Surf,https://nowoczesneauta.pl/modele/byd-dolphin-surf/,official_pl_current,97700,2,,6 lat / 150 tys. km,8 lat / 250 tys. km,,47,2026-09-13
+byd-e-vali,BYD E-Vali,https://nowoczesneauta.pl/modele/byd-e-vali/,official_pl_current,,0,Oficjalna polska oferta Armatus / BYD Trucks; wycena i termin indywidualnie.,,,,47,2026-09-13
+byd-eth8,BYD ETH8,https://nowoczesneauta.pl/modele/byd-eth8/,official_pl_current,,0,oficjalna oferta Armatus w Polsce; wycena i konfiguracja indywidualna,,,,47,2026-09-13
+byd-etm6,BYD ETM6,https://nowoczesneauta.pl/modele/byd-etm6/,official_pl_current,,0,oficjalna oferta Armatus w Polsce; cena i zabudowa na zapytanie,,,,47,2026-09-13
+byd-etp3,BYD ETP3 eVan,https://nowoczesneauta.pl/modele/byd-etp3/,official_pl_current,,0,oficjalna oferta Armatus w Polsce; cena i wyposażenie na zapytanie,,,,47,2026-09-13
+byd-seal,BYD Seal,https://nowoczesneauta.pl/modele/byd-seal/,official_pl_current,217400,2,,6 lat / 150 000 km,8 lat / 250 000 km,70%,47,2026-09-13
 byd-seal-5-dm-i,BYD Seal 5 DM-i,https://nowoczesneauta.pl/modele/byd-seal-5-dm-i/,official_pl_current,129900,2,,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-08-04
 byd-seal-6-dm-i,BYD Seal 6 DM-i,https://nowoczesneauta.pl/modele/byd-seal-6-dm-i/,official_pl_current,152600,3,,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-07-16
 byd-seal-6-dm-i-touring,BYD Seal 6 DM-i Touring,https://nowoczesneauta.pl/modele/byd-seal-6-dm-i-touring/,official_pl_current,159100,3,,6 lat / 150 tys. km,8 lat / 250 tys. km,70%,47,2026-07-16
@@ -51,14 +51,14 @@ dfsk-c31,DFSK C31,https://nowoczesneauta.pl/modele/dfsk-c31/,official_pl_current
 dfsk-c32,DFSK C32,https://nowoczesneauta.pl/modele/dfsk-c32/,official_pl_announced,,0,oficjalna zapowiedź dla Polski; termin niepotwierdzony,,,,12,2026-07-31
 dfsk-e5-phev,DFSK E5 PHEV,https://nowoczesneauta.pl/modele/dfsk-e5-phev/,official_pl_current,127900,2,,,,,12,2026-07-08
 dfsk-fx600,DFSK FX600,https://nowoczesneauta.pl/modele/dfsk-fx600/,official_pl_current,119900,2,,,,,12,2026-07-08
-dongfeng-box,Dongfeng Box,https://nowoczesneauta.pl/modele/dongfeng-box/,official_pl_current,99900,1,,5 lat / 150 000 km,8 lat / 170 000 km,,27,2026-07-16
-dongfeng-huge,Dongfeng Huge,https://nowoczesneauta.pl/modele/dongfeng-huge/,official_pl_current,134900,1,oficjalna oferta w Polsce; stan 2026-07-31,5 lat; możliwość rozszerzenia do 7 lat,,,27,2026-07-31
-dongfeng-mage,Dongfeng Mage,https://nowoczesneauta.pl/modele/dongfeng-mage/,official_pl_current,109900,1,oficjalna oferta w Polsce; stan 2026-07-31,5 lat; możliwość rozszerzenia do 7 lat,,,27,2026-07-31
-dongfeng-shine,Dongfeng Shine,https://nowoczesneauta.pl/modele/dongfeng-shine/,official_pl_current,84900,2,oficjalna oferta w Polsce; stan 2026-07-31,5 lat; możliwość rozszerzenia do 7 lat,,,27,2026-07-31
-dongfeng-shine-gs,Dongfeng Shine GS,https://nowoczesneauta.pl/modele/dongfeng-shine-gs/,official_pl_current,84900,1,oficjalna oferta w Polsce; stan 2026-07-31,5 lat; możliwość rozszerzenia do 7 lat,,,27,2026-07-31
-dongfeng-vigo,Dongfeng Vigo,https://nowoczesneauta.pl/modele/dongfeng-vigo/,official_pl_current,,0,oficjalna oferta w Polsce; stan 2026-07-31,5 lat; możliwość rozszerzenia do 7 lat,,,27,2026-07-31
-exlantix-es,Exlantix ES,https://nowoczesneauta.pl/modele/exlantix-es/,official_pl_current,329900,1,,7 lat / 150 tys. km lub 3 lata bez limitu km,8 lat / 160 000 km,,2,2026-09-10
-exlantix-et,Exlantix ET,https://nowoczesneauta.pl/modele/exlantix-et/,official_pl_current,349900,1,,7 lat / 150 tys. km lub 3 lata bez limitu km,8 lat / 160 000 km,,2,2026-09-10
+dongfeng-box,Dongfeng Box,https://nowoczesneauta.pl/modele/dongfeng-box/,official_pl_current,99900,1,,7 lat / 300 000 km · wybrane elementy; zakres dla Boxa do potwierdzenia,Zakres i limit dla baterii do potwierdzenia w książce gwarancyjnej,,27,2026-09-13
+dongfeng-huge,Dongfeng Huge,https://nowoczesneauta.pl/modele/dongfeng-huge/,official_pl_current,134900,1,oficjalna oferta w Polsce; stan 2026-09-13,7 lat / 300 000 km · wybrane elementy; 10 lat bez limitu km na wybrane podzespoły napędu,,,27,2026-09-13
+dongfeng-mage,Dongfeng Mage,https://nowoczesneauta.pl/modele/dongfeng-mage/,official_pl_current,109900,2,oficjalna oferta w Polsce; ICE i HEV; stan 2026-09-13,7 lat / 300 000 km · wybrane elementy; 10 lat bez limitu km na wybrane podzespoły napędu,,,27,2026-09-13
+dongfeng-shine,Dongfeng Shine,https://nowoczesneauta.pl/modele/dongfeng-shine/,official_pl_current,84900,2,oficjalna oferta w Polsce; wyprzedaż rocznika 2025; stan 2026-09-13,7 lat / 300 000 km na wybrane elementy; 10 lat bez limitu km na wybrane podzespoły napędu; szczegóły w książce gwarancyjnej,,,27,2026-09-13
+dongfeng-shine-gs,Dongfeng Shine GS,https://nowoczesneauta.pl/modele/dongfeng-shine-gs/,official_pl_current,84900,1,oficjalna oferta w Polsce; stan 2026-09-13,7 lat / 300 000 km na wybrane elementy pojazdu; 10 lat bez limitu km na wybrane podzespoły napędu,,,27,2026-09-13
+dongfeng-vigo,Dongfeng Vigo,https://nowoczesneauta.pl/modele/dongfeng-vigo/,official_pl_current,,0,polska karta modelu i zapytanie o jazdę próbną; cena nieopublikowana; stan 2026-09-13,7 lat / 300 000 km na wybrane elementy pojazdu; 10 lat bez limitu km na wybrane podzespoły napędu,,,27,2026-09-13
+exlantix-es,Exlantix ES,https://nowoczesneauta.pl/modele/exlantix-es/,official_pl_current,329900,1,,7 lat / 150 tys. km lub 3 lata bez limitu km,8 lat / 160 000 km,,2,2026-09-13
+exlantix-et,Exlantix ET,https://nowoczesneauta.pl/modele/exlantix-et/,official_pl_current,349900,1,,7 lat / 150 tys. km lub 3 lata bez limitu km,8 lat / 160 000 km,,2,2026-09-13
 farizon-supervan,Farizon SV / SuperVan,https://nowoczesneauta.pl/modele/farizon-supervan/,official_pl_current,158864,10,oficjalna oferta w Polsce; stan 2026-09-11,5 lat / 200 000 km,8 lat / 200 000 km,,9,2026-09-11
 farizon-v6e,Farizon V6E,https://nowoczesneauta.pl/modele/farizon-v6e/,official_pl_current,105775,1,oficjalna oferta w Polsce; stan 2026-07-31,,6 lat / 300 000 km; możliwość przedłużenia o 2 lata,,9,2026-07-31
 firefly,Firefly,https://nowoczesneauta.pl/modele/firefly/,official_pl_announced,,0,oficjalna zapowiedź dla Polski; 2026 — miesiąc niepotwierdzony,,,,0,2026-09-10

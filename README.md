@@ -8,9 +8,9 @@ polskim rynku, oraz dziennik zmian tych danych z dokumentem źródłowym przy ka
 Zbiór jest odświeżany automatycznie przy każdej publikacji serwisu.
 
 <!-- STATS:START -->
-- Wersja zbioru: **2026-09-02** (stan danych źródłowych: 2026-09-08, zrzut: 2026-09-11)
+- Wersja zbioru: **2026-09-13** (stan danych źródłowych: 2026-09-08, zrzut: 2026-09-13)
 - Modele: **174** (official_pl_current 148, official_pl_announced 23, official_pl_presale 2, private_import 1)
-- Zdarzenia w Radarze: **76** (availability 28, promotion 22, price 12, versions 6, correction 4, warranty 3, equipment 1)
+- Zdarzenia w Radarze: **82** (availability 28, promotion 22, price 12, correction 8, versions 7, warranty 4, equipment 1)
 - Sieć sprzedaży: 606 punktów w 149 miastach
 <!-- STATS:END -->
 

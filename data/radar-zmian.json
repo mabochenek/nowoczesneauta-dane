@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "name": "Radar zmian rynku nowych marek — NowoczesneAuta.pl",
-  "version": "2026-09-02",
-  "dateModified": "2026-09-02",
+  "version": "2026-09-13",
+  "dateModified": "2026-09-13",
   "methodology": "https://nowoczesneauta.pl/radar-zmian/#metodologia",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "repository": "https://github.com/mabochenek/nowoczesneauta-dane",
   "usageTerms": "https://nowoczesneauta.pl/radar-zmian/#zasady-wykorzystania",
   "scope": "chińskie marki i modele na rynku polskim: bieżąca oferta, oficjalne zapowiedzi, przedsprzedaż oraz modele wycofane i historyczne; ceny oficjalne, prognozy i ceny archiwalne są rozdzielone",
   "observation": {
-    "snapshotDate": "2026-09-11",
+    "snapshotDate": "2026-09-13",
     "sourceDataDate": "2026-09-08",
     "monitoredModels": 174,
     "dealers": 606,
@@ -22,11 +22,11 @@
       "url": "https://nowoczesneauta.pl/modele/baic-3/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 84900,
+        "pricePln": 74900,
         "versions": [
           {
             "name": "LUXURY",
-            "price": 84900
+            "price": 74900
           }
         ],
         "availability": null,
@@ -35,10 +35,11 @@
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "baic/baic-3/broszura-katalog.pdf",
         "baic/baic-3/cennik-2026.pdf",
+        "baic/baic-3/dane.md",
         "baic/baic-3/instrukcja.pdf"
       ]
     },
@@ -48,11 +49,11 @@
       "url": "https://nowoczesneauta.pl/modele/baic-5/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 99900,
+        "pricePln": 97900,
         "versions": [
           {
             "name": "BUSINESS",
-            "price": 99900
+            "price": 97900
           },
           {
             "name": "LUXURY",
@@ -65,11 +66,11 @@
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "baic/baic-5/broszura-katalog.txt",
-        "baic/baic-5/cennik-2025.pdf",
-        "baic/baic-5/cennik-2026.pdf"
+        "baic/baic-5/cennik-2026.pdf",
+        "baic/baic-5/dane.md"
       ]
     },
     {
@@ -78,11 +79,11 @@
       "url": "https://nowoczesneauta.pl/modele/baic-7/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 164900,
+        "pricePln": 136000,
         "versions": [
           {
-            "name": "jedyna wersja (pełne wyposażenie)",
-            "price": 164900
+            "name": "BAIC 7",
+            "price": 136000
           }
         ],
         "availability": null,
@@ -91,10 +92,10 @@
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-08",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
-        "baic/baic-7/cennik-2025.pdf",
         "baic/baic-7/cennik-2026.pdf",
+        "baic/baic-7/dane.md",
         "baic/baic-7/instrukcja.pdf"
       ]
     },
@@ -107,17 +108,17 @@
         "pricePln": 174500,
         "versions": [
           {
-            "name": "BAW 212",
+            "name": "First Edition Diesel",
             "price": 174500
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-13",
         "warrantyVehicle": "3 lata / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 3
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/baw-212/dane.md"
       ]
@@ -143,13 +144,13 @@
             "price": 99900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-13",
         "warrantyVehicle": "3 lata / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 3
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/baw-light-truck/dane.md"
       ]
@@ -171,13 +172,13 @@
             "price": 77900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-09-10",
-        "warrantyVehicle": "3 lata / 100 000 km",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-13",
+        "warrantyVehicle": "3 lata / 100 000 km w ofercie BAW; warunki dla egzemplarza do potwierdzenia",
         "warrantyBattery": "5 lat — limit przebiegu do potwierdzenia",
         "warrantySoh": null,
         "dealerCount": 3
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/baw-pony/dane.md"
       ]
@@ -199,13 +200,13 @@
             "price": 119900
           }
         ],
-        "availability": null,
-        "warrantyVehicle": "5 lat / 150 tys. km",
+        "availability": "2026-09-13",
+        "warrantyVehicle": "5 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 29
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "niszowe/bestune/b70/cennik.pdf",
         "niszowe/bestune/b70/dane.md"
@@ -232,13 +233,13 @@
             "price": 99900
           }
         ],
-        "availability": null,
-        "warrantyVehicle": "5 lat / 150 tys. km",
+        "availability": "2026-09-13",
+        "warrantyVehicle": "5 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 29
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "niszowe/bestune/t77/cennik.pdf",
         "niszowe/bestune/t77/dane.md"
@@ -265,13 +266,13 @@
             "price": 129900
           }
         ],
-        "availability": null,
-        "warrantyVehicle": "5 lat / 150 tys. km",
+        "availability": "2026-09-13",
+        "warrantyVehicle": "5 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 29
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "niszowe/bestune/t90/cennik.pdf",
         "niszowe/bestune/t90/dane.md"
@@ -283,15 +284,15 @@
       "url": "https://nowoczesneauta.pl/modele/bj30/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 175000,
+        "pricePln": 169500,
         "versions": [
           {
             "name": "BJ30",
-            "price": 175000
+            "price": 169500
           },
           {
             "name": "BJ30 Comfort",
-            "price": 179900
+            "price": 174400
           }
         ],
         "availability": null,
@@ -300,11 +301,11 @@
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-08",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
-        "baic/bj30/broszura-katalog.pdf",
         "baic/bj30/cennik-2026-a.pdf",
         "baic/bj30/cennik-2026-b.pdf",
+        "baic/bj30/dane.md",
         "baic/bj30/instrukcja.pdf"
       ]
     },
@@ -317,19 +318,20 @@
         "pricePln": 219900,
         "versions": [
           {
-            "name": "BJ40 (jedyna wersja)",
+            "name": "BJ40 · model i produkcja 2026",
             "price": 219900
           }
         ],
-        "availability": "oficjalna przedsprzedaż od 17 czerwca 2026; termin pierwszych wydań niepotwierdzony",
+        "availability": "oficjalna przedsprzedaż według karty importera; termin odbioru do ustalenia dla egzemplarza",
         "warrantyVehicle": "5 lat / 100 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
-        "baic/bj40/cennik-2026.pdf"
+        "baic/bj40/cennik-2026.txt",
+        "baic/bj40/dane.md"
       ]
     },
     {
@@ -338,11 +340,11 @@
       "url": "https://nowoczesneauta.pl/modele/bj60/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 299900,
+        "pricePln": 276900,
         "versions": [
           {
-            "name": "FLAGSHIP",
-            "price": 299900
+            "name": "Flagship · 7 miejsc · rok modelowy 2025",
+            "price": 276900
           }
         ],
         "availability": null,
@@ -351,10 +353,10 @@
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-08",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
-        "baic/bj60/broszura-katalog.pdf",
-        "baic/bj60/cennik-2025.pdf"
+        "baic/bj60/cennik-current-2026-09-13.txt",
+        "baic/bj60/dane.md"
       ]
     },
     {
@@ -379,15 +381,15 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km",
-        "warrantySoh": "70%",
+        "warrantyVehicle": "6 lat / 150 000 km",
+        "warrantyBattery": "8 lat / 250 000 km — deklaracja BYD; dostępny PDF: 200 000 km",
+        "warrantySoh": "70% — próg w PDF warunków",
         "dealerCount": 47
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
-        "byd/atto-2/broszura.pdf",
         "byd/atto-2/cennik-2025.pdf",
+        "byd/atto-2/cennik-2026-06.pdf",
         "byd/atto-2/cennik-comfort-2026-01.pdf",
         "byd/atto-2/dane.md",
         "byd/atto-2/gwarancja.pdf"
@@ -411,13 +413,14 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km",
-        "warrantySoh": "70%",
+        "warrantyVehicle": "6 lat / 150 000 km",
+        "warrantyBattery": "8 lat / 250 000 km — deklaracja polskiej oferty",
+        "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
+        "byd/atto-2-dm-i/cennik-2026-06.pdf",
         "byd/atto-2-dm-i/cennik-2026.pdf",
         "byd/atto-2-dm-i/dane.md"
       ]
@@ -440,16 +443,17 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km",
-        "warrantySoh": "70%",
+        "warrantyVehicle": "6 lat / 150 000 km",
+        "warrantyBattery": "8 lat / 250 000 km",
+        "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
+        "byd/atto-3-evo/cennik-2026-07.pdf",
         "byd/atto-3-evo/cennik-2026.pdf",
-        "byd/atto-3-evo/dane.md",
-        "byd/atto-3-evo/gwarancja-atto3-generic.pdf"
+        "byd/atto-3-evo/cennik-current-2026-09-13.pdf",
+        "byd/atto-3-evo/dane.md"
       ]
     },
     {
@@ -469,17 +473,18 @@
             "price": 155700
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km",
-        "warrantySoh": null,
+        "availability": "Oficjalny cennik PL od 16.07.2026; promocja produkcji 2025, roku modelowego 2026, do 30.09.2026 lub wyczerpania zapasów.",
+        "warrantyVehicle": "6 lat / 150 000 km",
+        "warrantyBattery": "8 lat / 250 000 km",
+        "warrantySoh": "70% (PDF z limitem 200 000 km)",
         "dealerCount": 47
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "byd/dolphin/broszura-cennik-2025.pdf",
+        "byd/dolphin/cennik-2026-07-promo.pdf",
         "byd/dolphin/dane.md",
-        "rynek-2026/byd-dolphin/dane.md"
+        "byd/dolphin/gwarancja-2026-09-13.pdf"
       ]
     },
     {
@@ -507,15 +512,16 @@
             "price": 143500
           }
         ],
-        "availability": "oficjalna przedsprzedaż w Polsce; planowane dostawy: październik 2026",
-        "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km",
-        "warrantySoh": "70%",
+        "availability": "Oficjalna przedsprzedaż w Polsce; strona BYD nie podaje terminu pierwszych dostaw. Termin konkretnego auta do ustalenia.",
+        "warrantyVehicle": "6 lat / 150 000 km",
+        "warrantyBattery": "8 lat / 250 000 km",
+        "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "byd/dolphin-g-dm-i/cennik-2026-07.pdf",
+        "byd/dolphin-g-dm-i/cennik-current-2026-09-13.pdf",
         "byd/dolphin-g-dm-i/dane.md",
         "rynek-2026/byd-dolphin-g-dm-i/dane.md"
       ]
@@ -540,15 +546,16 @@
         "availability": null,
         "warrantyVehicle": "6 lat / 150 tys. km",
         "warrantyBattery": "8 lat / 250 tys. km",
-        "warrantySoh": "70%",
+        "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "byd/dolphin-surf/broszura-2025-05.pdf",
         "byd/dolphin-surf/cennik-2025.pdf",
-        "byd/dolphin-surf/dane.md",
-        "byd/dolphin-surf/gwarancja.pdf"
+        "byd/dolphin-surf/cennik-2026-07-promo.pdf",
+        "byd/dolphin-surf/cennik-offer-2026-09-13.pdf",
+        "byd/dolphin-surf/dane.md"
       ]
     },
     {
@@ -559,13 +566,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
+        "availability": "Oficjalna polska oferta Armatus / BYD Trucks; wycena i termin indywidualnie.",
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/byd-e-vali/ZRODLA.md",
         "rynek-2026/byd-e-vali/dane.md"
@@ -579,13 +586,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
+        "availability": "oficjalna oferta Armatus w Polsce; wycena i konfiguracja indywidualna",
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/byd-eth8/ZRODLA.md",
         "rynek-2026/byd-eth8/broszura-en.pdf",
@@ -600,13 +607,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
+        "availability": "oficjalna oferta Armatus w Polsce; cena i zabudowa na zapytanie",
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/byd-etm6/ZRODLA.md",
         "rynek-2026/byd-etm6/broszura-en.pdf",
@@ -621,17 +628,19 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
+        "availability": "oficjalna oferta Armatus w Polsce; cena i wyposażenie na zapytanie",
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 47
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/byd-etp3/ZRODLA.md",
         "rynek-2026/byd-etp3/broszura-en.pdf",
-        "rynek-2026/byd-etp3/dane.md"
+        "rynek-2026/byd-etp3/dane.md",
+        "rynek-2026/byd-etp3/gwarancja-etp3-es.pdf",
+        "rynek-2026/byd-etp3/komunikat-gwarancja-2026.md"
       ]
     },
     {
@@ -652,18 +661,22 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "6 lat / 150 tys. km",
-        "warrantyBattery": "8 lat / 250 tys. km",
+        "warrantyVehicle": "6 lat / 150 000 km",
+        "warrantyBattery": "8 lat / 250 000 km",
         "warrantySoh": "70%",
         "dealerCount": 47
       },
-      "observedAt": "2026-09-08",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
-        "byd/seal/broszura-2024.pdf",
+        "byd/seal/bezpieczenstwo-i-gwarancja-2026-09-13.md",
         "byd/seal/broszura-2025.pdf",
+        "byd/seal/cennik-2026-07.pdf",
         "byd/seal/cennik-2026.pdf",
+        "byd/seal/cennik-rp2025-2026-08.pdf",
+        "byd/seal/cennik-rp2026-2026-08.pdf",
         "byd/seal/dane.md",
-        "byd/seal/gwarancja.pdf"
+        "byd/seal/gwarancja.pdf",
+        "byd/seal/oferta-2026-09-13.md"
       ]
     },
     {
@@ -1477,16 +1490,14 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "5 lat / 150 000 km",
-        "warrantyBattery": "8 lat / 170 000 km",
+        "warrantyVehicle": "7 lat / 300 000 km · wybrane elementy; zakres dla Boxa do potwierdzenia",
+        "warrantyBattery": "Zakres i limit dla baterii do potwierdzenia w książce gwarancyjnej",
         "warrantySoh": null,
         "dealerCount": 27
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
-        "niszowe/dongfeng/box/broszura-nammi-dongfeng-ph-ocr.txt",
-        "niszowe/dongfeng/box/dane-techniczne-box-dongfeng-pe.pdf",
-        "niszowe/dongfeng/box/dane-techniczne-nammi01-dongfeng-pa.pdf"
+        "niszowe/dongfeng/box/dane.md"
       ]
     },
     {
@@ -1502,13 +1513,13 @@
             "price": 134900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-13",
+        "warrantyVehicle": "7 lat / 300 000 km · wybrane elementy; 10 lat bez limitu km na wybrane podzespoły napędu",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 27
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/dongfeng-huge/dane.md"
       ]
@@ -1524,15 +1535,19 @@
           {
             "name": "ICE",
             "price": 109900
+          },
+          {
+            "name": "HEV",
+            "price": 129900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
+        "availability": "oficjalna oferta w Polsce; ICE i HEV; stan 2026-09-13",
+        "warrantyVehicle": "7 lat / 300 000 km · wybrane elementy; 10 lat bez limitu km na wybrane podzespoły napędu",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 27
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/dongfeng-mage/dane.md"
       ]
@@ -1554,15 +1569,16 @@
             "price": 94900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
+        "availability": "oficjalna oferta w Polsce; wyprzedaż rocznika 2025; stan 2026-09-13",
+        "warrantyVehicle": "7 lat / 300 000 km na wybrane elementy; 10 lat bez limitu km na wybrane podzespoły napędu; szczegóły w książce gwarancyjnej",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 27
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
-        "rynek-2026/dongfeng-shine/dane.md"
+        "rynek-2026/dongfeng-shine/dane.md",
+        "rynek-2026/dongfeng-shine/oferta-2026-09-13.md"
       ]
     },
     {
@@ -1578,13 +1594,13 @@
             "price": 84900
           }
         ],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
+        "availability": "oficjalna oferta w Polsce; stan 2026-09-13",
+        "warrantyVehicle": "7 lat / 300 000 km na wybrane elementy pojazdu; 10 lat bez limitu km na wybrane podzespoły napędu",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 27
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/dongfeng-shine-gs/dane.md"
       ]
@@ -1597,13 +1613,13 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna oferta w Polsce; stan 2026-07-31",
-        "warrantyVehicle": "5 lat; możliwość rozszerzenia do 7 lat",
+        "availability": "polska karta modelu i zapytanie o jazdę próbną; cena nieopublikowana; stan 2026-09-13",
+        "warrantyVehicle": "7 lat / 300 000 km na wybrane elementy pojazdu; 10 lat bez limitu km na wybrane podzespoły napędu",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 27
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "rynek-2026/dongfeng-vigo/dane.md"
       ]
@@ -1627,7 +1643,7 @@
         "warrantySoh": null,
         "dealerCount": 2
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "niszowe/exlantix/es/dane.md"
       ]
@@ -1651,7 +1667,7 @@
         "warrantySoh": null,
         "dealerCount": 2
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-13",
       "sourceReferences": [
         "niszowe/exlantix/et/dane.md"
       ]
@@ -4840,6 +4856,138 @@
   ],
   "changes": [
     {
+      "id": "2026-09-13-dongfeng-shine-warranty-scope",
+      "modelSlug": "dongfeng-shine",
+      "observedAt": "2026-09-13",
+      "category": "warranty",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "marketing",
+      "title": "Dongfeng Shine: importer opisuje zakres gwarancji 7 i 10 lat",
+      "summary": "Aktualny komunikat mówi o 10 latach bez limitu km na wybrane podzespoły napędu oraz 7 latach / 300 000 km na wybrane elementy pojazdu.",
+      "before": "W rejestrze: 5 lat z możliwością rozszerzenia do 7 lat.",
+      "after": "Komunikat importera: 7 lat / 300 000 km na wybrane elementy oraz 10 lat bez limitu km na wybrane podzespoły napędu.",
+      "editorialNote": "Data oznacza odczyt źródła, nie początek obowiązywania warunków. To komunikat marketingowy z zastrzeżeniem zakresu; pełna książka gwarancyjna nie została zweryfikowana. Nie przenosimy warunków na wcześniej sprzedane egzemplarze.",
+      "source": {
+        "path": "rynek-2026/dongfeng-shine/dane.md",
+        "label": "Polska strona Dongfeng Shine — komunikat zakresu gwarancji",
+        "type": "official-page-register"
+      },
+      "reviewedAt": "2026-09-13",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/dongfeng-shine/"
+    },
+    {
+      "id": "2026-09-13-dongfeng-shine-e3-details",
+      "modelSlug": "dongfeng-shine",
+      "observedAt": "2026-09-13",
+      "category": "versions",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "title": "Dongfeng Shine: uzupełniamy parametry wersji E3",
+      "summary": "Polska karta przypisuje E3 190 KM, 300 Nm, 10,6 s do 100 km/h i deklarowane 6,1 l/100 km. Cena 94 900 zł pozostaje potwierdzona.",
+      "before": "E3 z ceną 94 900 zł, bez parametrów przypisanych do wersji w rejestrze.",
+      "after": "E3: 190 KM, 300 Nm, 0–100 km/h w 10,6 s; zużycie 6,1 l/100 km bez określonego cyklu; cena 94 900 zł.",
+      "editorialNote": "Uzupełnienie dokumentacji istniejącej wersji, nie ogłoszenie premiery ani zmiany napędu w konkretnym dniu. Usunięto błędne zdania o nieznanej cenie i wyposażeniu E3. Parametry E2 nie są przypisywane E3.",
+      "source": {
+        "path": "rynek-2026/dongfeng-shine/dane.md",
+        "label": "Polska strona Dongfeng Shine — parametry i wyposażenie E2/E3",
+        "type": "official-page-register"
+      },
+      "reviewedAt": "2026-09-13",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/dongfeng-shine/"
+    },
+    {
+      "id": "2026-09-13-byd-eth8-masy-wymiary-konflikt",
+      "modelSlug": "byd-eth8",
+      "observedAt": "2026-09-13",
+      "category": "correction",
+      "kind": "conflict",
+      "materiality": "high",
+      "confidence": "conflict",
+      "title": "ETH8: rozbieżne masy i wymiary podwozia w źródłach",
+      "summary": "Armatus i broszura BYD podają inne długości, szerokość oraz masę długiej ramy. Nośność krótkiej ramy 11 200 kg z polskiej karty nie wynika z różnicy DMC 19 000 kg i masy 8050 kg.",
+      "before": "Armatus: 8160/10 500 mm; masa 8050/8100 kg; nośność ramy 11 200/10 900 kg.",
+      "after": "Broszura BYD: 7930/10 270 mm; masa 8050/8250 kg; payload 10 950/10 750 kg.",
+      "editorialNote": "To rozbieżność dokumentów zaobserwowana w przeglądzie, nie potwierdzona zmiana modelu we wrześniu. Powodu różnic nie ustalono. Na stronie rozdzielamy źródła; ładowność po zabudowie wymaga dokumentów konkretnej konfiguracji.",
+      "source": {
+        "path": "rynek-2026/byd-eth8/broszura-en.pdf",
+        "label": "BYD Trucks ETH8 · broszura 08/2024, strona 1; porównanie z kartą Armatus",
+        "type": "official-brochure"
+      },
+      "reviewedAt": "2026-09-13",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-eth8/"
+    },
+    {
+      "id": "2026-09-13-byd-etm6-specyfikacja-konflikt",
+      "modelSlug": "byd-etm6",
+      "observedAt": "2026-09-13",
+      "category": "correction",
+      "kind": "conflict",
+      "materiality": "high",
+      "confidence": "conflict",
+      "title": "ETM6: karta Armatus i broszura BYD podają różne parametry",
+      "summary": "Polska karta różni się od broszury BYD długością podwozi o 10 mm, masą o 100 kg i mocą DC 120 zamiast 115 kW. Dane dotyczą 2 rozstawów osi, przed zabudową.",
+      "before": "Armatus: 5950/7645 mm, 3680/3750 kg, 3810/3740 kg zapasu do DMC, DC 120 kW.",
+      "after": "Broszura BYD: 5940/7635 mm, 3780/3850 kg, payload 3710/3640 kg, DC 115 kW.",
+      "editorialNote": "Przegląd dokumentuje konflikt źródeł, nie zmianę modelu we wrześniu. Przyczyna rozbieżności jest niepotwierdzona. Do projektu zabudowy i stacji potrzebna jest specyfikacja zamawianego podwozia.",
+      "source": {
+        "path": "rynek-2026/byd-etm6/broszura-en.pdf",
+        "label": "BYD ETM6 · broszura 08/2024, strona 1; porównanie z Armatus",
+        "type": "official-brochure"
+      },
+      "reviewedAt": "2026-09-13",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-etm6/"
+    },
+    {
+      "id": "2026-09-13-byd-seal-roczniki-i-oferty",
+      "modelSlug": "byd-seal",
+      "observedAt": "2026-09-13",
+      "category": "correction",
+      "kind": "conflict",
+      "materiality": "high",
+      "confidence": "conflict",
+      "title": "Seal: rozdzielamy roczniki i niespójne ceny promocji",
+      "summary": "Karta oferty RP2025: 177 100/181 700 zł, PDF RP2025: 191 400/199 200 zł, PDF RP2026: 205 450/215 910 zł. Rok modelowy trzeba sprawdzić oddzielnie od produkcji.",
+      "before": "Promocja 2025 była łączona z parametrami MY2026 i rabatem liczonym od innego katalogu.",
+      "after": "Ceny przypisane do źródła i rocznika; MY2026 ma bagażniki 485/72 l, starsza specyfikacja 400/53 l. Potwierdź VIN i wycenę.",
+      "editorialNote": "To przegląd równolegle dostępnych dokumentów, nie nowa promocja we wrześniu. Dodatkowo nowe PDF podają limit przyczepy Design 750 kg z hamulcem wobec 1000 kg w starszym cenniku; wymagane dokumenty konkretnego auta. Uzupełniono znany od2023 wynik Euro NCAP.",
+      "source": {
+        "path": "byd/seal/oferta-2026-09-13.md",
+        "label": "BYD Polska: karta oferty, PDF RP2025/RP2026 i dossier przeglądu",
+        "type": "source-register"
+      },
+      "reviewedAt": "2026-09-13",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-seal/"
+    },
+    {
+      "id": "2026-09-13-byd-etp3-deklaracja-czasu-dc",
+      "modelSlug": "byd-etp3",
+      "observedAt": "2026-09-13",
+      "category": "correction",
+      "kind": "changed",
+      "materiality": "medium",
+      "confidence": "uncertain",
+      "title": "ETP3: deklaracja 30 min DC wymaga wyjaśnienia",
+      "summary": "Armatus i broszura BYD podają 20–100% w 30 min, baterię 44,9 kWh i DC 50 kW. Relacja tych wartości wymaga potwierdzenia metody pomiaru; nie jest pewnym czasem postoju.",
+      "before": "W materiałach: 30 min od 20 do 100% przy DC 50 kW.",
+      "after": "Na stronie: deklaracja wymagająca wyjaśnienia; brak potwierdzonego czasu DC w danych liczbowych.",
+      "editorialNote": "To weryfikacja opisu, nie zmiana parametrów pojazdu. Przy stałych 50 kW przez 30 min energia wyniosłaby najwyżej 25 kWh; 80% podanej pojemności to około 35,9 kWh. Nie znamy energii użytkowej ani sposobu liczenia SOC, dlatego nie wyliczamy alternatywnego czasu.",
+      "source": {
+        "path": "rynek-2026/byd-etp3/broszura-en.pdf",
+        "label": "BYD ETP3 · broszura 1123-BPS-V5, strony 1–2",
+        "type": "official-brochure"
+      },
+      "reviewedAt": "2026-09-13",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/byd-etp3/"
+    },
+    {
       "id": "2026-09-11-byd-atto-2-dm-i-promotion-changed",
       "modelSlug": "byd-atto-2-dm-i",
       "observedAt": "2026-09-11",
@@ -6516,7 +6664,7 @@
       "after": "Design i Excellence AWD · 2 wersje",
       "editorialNote": "Dokument nie rozstrzyga, czy wersja została wycofana na stałe, czy pominięta w tej edycji cennika.",
       "source": {
-        "path": "byd/seal/cennik-2026.pdf",
+        "path": "byd/seal/cennik-2026-07.pdf",
         "label": "Cennik BYD Seal obowiązujący od 07.07.2026",
         "type": "official-price-list"
       },
