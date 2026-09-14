@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "name": "Radar zmian rynku nowych marek — NowoczesneAuta.pl",
-  "version": "2026-09-13",
-  "dateModified": "2026-09-13",
+  "version": "2026-09-14",
+  "dateModified": "2026-09-14",
   "methodology": "https://nowoczesneauta.pl/radar-zmian/#metodologia",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "repository": "https://github.com/mabochenek/nowoczesneauta-dane",
   "usageTerms": "https://nowoczesneauta.pl/radar-zmian/#zasady-wykorzystania",
   "scope": "chińskie marki i modele na rynku polskim: bieżąca oferta, oficjalne zapowiedzi, przedsprzedaż oraz modele wycofane i historyczne; ceny oficjalne, prognozy i ceny archiwalne są rozdzielone",
   "observation": {
-    "snapshotDate": "2026-09-13",
+    "snapshotDate": "2026-09-14",
     "sourceDataDate": "2026-09-08",
     "monitoredModels": 174,
     "dealers": 606,
@@ -4662,10 +4662,11 @@
         "warrantySoh": null,
         "dealerCount": 27
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-14",
       "sourceReferences": [
         "niszowe/voyah/free/instrukcja-free-en.pdf",
-        "niszowe/voyah/free/karta-ratunkowa-free.pdf"
+        "niszowe/voyah/free/karta-ratunkowa-free.pdf",
+        "niszowe/voyah/free/oferta-2026-09-14.md"
       ]
     },
     {
@@ -4855,6 +4856,29 @@
     }
   ],
   "changes": [
+    {
+      "id": "2026-09-14-voyah-free-gwarancja-pl-konflikt",
+      "modelSlug": "voyah-free",
+      "observedAt": "2026-09-14",
+      "effectiveFrom": "2026-09-14",
+      "category": "warranty",
+      "kind": "conflict",
+      "materiality": "high",
+      "confidence": "conflict",
+      "title": "Voyah Free: polskie warunki gwarancji nieopublikowane, źródła podają 2 różne limity",
+      "summary": "Importer nie publikuje warunków gwarancji (voyah.pl/gwarancja zwraca 404). Prasa i Samar podają 5 lat/100 000 km na pojazd i 8 lat/160 000 km na baterię; importerzy NO i NL 5 lat/150 000 km i 8 lat/200 000 km, z progiem pojemności 75% tylko w NO.",
+      "before": "Polskie warunki gwarancji nieustalone; w rejestrze brak wpisu o rozbieżności źródeł.",
+      "after": "Warunki nadal nieopublikowane przez importera; udokumentowano 2 rozbieżne komplety limitów (prasa vs NO/NL) do potwierdzenia na piśmie w salonie.",
+      "editorialNote": "Nie przypisujemy polskiej umowie warunków zagranicznych; pola warr_* w bazie pozostają puste do czasu dokumentu importera.",
+      "source": {
+        "path": "niszowe/voyah/free/oferta-2026-09-14.md",
+        "label": "Skrót oferty i gwarancji Voyah Free, 14.09.2026",
+        "type": "source-register"
+      },
+      "reviewedAt": "2026-09-14",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/voyah-free/"
+    },
     {
       "id": "2026-09-13-dongfeng-shine-warranty-scope",
       "modelSlug": "dongfeng-shine",
