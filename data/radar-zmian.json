@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "name": "Radar zmian rynku nowych marek — NowoczesneAuta.pl",
-  "version": "2026-09-16",
-  "dateModified": "2026-09-16",
+  "version": "2026-09-25",
+  "dateModified": "2026-09-25",
   "methodology": "https://nowoczesneauta.pl/radar-zmian/#metodologia",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "repository": "https://github.com/mabochenek/nowoczesneauta-dane",
   "usageTerms": "https://nowoczesneauta.pl/radar-zmian/#zasady-wykorzystania",
   "scope": "chińskie marki i modele na rynku polskim: bieżąca oferta, oficjalne zapowiedzi, przedsprzedaż oraz modele wycofane i historyczne; ceny oficjalne, prognozy i ceny archiwalne są rozdzielone",
   "observation": {
-    "snapshotDate": "2026-09-16",
+    "snapshotDate": "2026-09-25",
     "sourceDataDate": "2026-09-08",
     "monitoredModels": 174,
     "dealers": 606,
@@ -959,7 +959,7 @@
         "warrantySoh": null,
         "dealerCount": 9
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-17",
       "sourceReferences": [
         "niszowe/changan-deepal/cs55-plus/dane.md"
       ]
@@ -983,7 +983,7 @@
         "warrantySoh": null,
         "dealerCount": 9
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-17",
       "sourceReferences": [
         "niszowe/changan-deepal/cs75-plus/dane.md"
       ]
@@ -1207,7 +1207,7 @@
         "warrantySoh": null,
         "dealerCount": 9
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-17",
       "sourceReferences": [
         "niszowe/changan-deepal/deepal-s05-phev/dane.md"
       ]
@@ -1239,7 +1239,7 @@
         "warrantySoh": "70%",
         "dealerCount": 9
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-17",
       "sourceReferences": [
         "niszowe/changan-deepal/deepal-s05/dane.md"
       ]
@@ -1263,7 +1263,7 @@
         "warrantySoh": "70%",
         "dealerCount": 9
       },
-      "observedAt": "2026-09-10",
+      "observedAt": "2026-09-17",
       "sourceReferences": [
         "niszowe/changan-deepal/deepal-s07/dane.md"
       ]
@@ -2860,14 +2860,15 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "7 lat / 150 000 km",
+        "warrantyVehicle": "7 lat / 150 000 km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
         "omoda-jaecoo/jaecoo-5-hybrid/cennik-2026-nr1.pdf",
+        "omoda-jaecoo/jaecoo-5-hybrid/cennik-2026-nr3.pdf",
         "omoda-jaecoo/jaecoo-5-hybrid/cennik-2026-pgd.pdf"
       ]
     },
@@ -2906,26 +2907,28 @@
       "url": "https://nowoczesneauta.pl/modele/jaecoo-7-hybrid/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 139900,
+        "pricePln": 134900,
         "versions": [
           {
             "name": "Select",
-            "price": 139900
+            "price": 134900
           },
           {
             "name": "Exclusive",
-            "price": 149900
+            "price": 144900
           }
         ],
         "availability": null,
-        "warrantyVehicle": "7 lat",
-        "warrantyBattery": "8 lat",
+        "warrantyVehicle": "7 lat / 150 000 km lub 3 lata bez limitu km",
+        "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
-        "omoda-jaecoo/jaecoo-7-hybrid/cennik-2026-nr1.pdf"
+        "omoda-jaecoo/jaecoo-7-hybrid/cennik-2026-nr1.pdf",
+        "omoda-jaecoo/jaecoo-7-hybrid/cennik-2026-nr4.pdf",
+        "omoda-jaecoo/jaecoo-7-hybrid/oferta-2026-09-25.md"
       ]
     },
     {
@@ -2942,19 +2945,21 @@
           },
           {
             "name": "Exclusive",
-            "price": 169900
+            "price": 164900
           }
         ],
         "availability": null,
-        "warrantyVehicle": "7 lat / 150 000 km",
+        "warrantyVehicle": "7 lat / 150 000 km lub 3 lata bez limitu km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
+        "omoda-jaecoo/jaecoo-7-super-hybrid/cennik-2026-nr10.pdf",
         "omoda-jaecoo/jaecoo-7-super-hybrid/cennik-2026-nr5.pdf",
-        "omoda-jaecoo/jaecoo-7-super-hybrid/cennik-2026-pgd.pdf"
+        "omoda-jaecoo/jaecoo-7-super-hybrid/cennik-2026-pgd.pdf",
+        "omoda-jaecoo/jaecoo-7-super-hybrid/oferta-2026-09-25.md"
       ]
     },
     {
@@ -2975,15 +2980,20 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": null,
+        "warrantyVehicle": "7 lat / 150 000 km lub 3 lata bez limitu km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
         "omoda-jaecoo/jaecoo-8/cennik-2026-nr1.pdf",
-        "omoda-jaecoo/jaecoo-8/cennik-2026-nr2.pdf"
+        "omoda-jaecoo/jaecoo-8/cennik-2026-nr2.pdf",
+        "omoda-jaecoo/jaecoo-8/cennik-2026-nr3.pdf",
+        "omoda-jaecoo/jaecoo-8/cennik-2026-nr4.pdf",
+        "omoda-jaecoo/jaecoo-8/cennik-2026-nr5.pdf",
+        "omoda-jaecoo/jaecoo-8/oferta-2026-09-25.md",
+        "omoda-jaecoo/marka-2026-09-25.md"
       ]
     },
     {
@@ -3000,15 +3010,18 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "7 lat / 150 000 km",
+        "warrantyVehicle": "7 lat / 150 000 km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
         "omoda-jaecoo/jaecoo-e5/cennik-2026-nr2.pdf",
-        "omoda-jaecoo/jaecoo-e5/cennik-2026-pgd.pdf"
+        "omoda-jaecoo/jaecoo-e5/cennik-2026-nr4.pdf",
+        "omoda-jaecoo/jaecoo-e5/cennik-2026-pgd.pdf",
+        "omoda-jaecoo/jaecoo-e5/oferta-2026-09-25.md",
+        "omoda-jaecoo/marka-2026-09-25.md"
       ]
     },
     {
@@ -4352,15 +4365,16 @@
       "current": {
         "pricePln": null,
         "versions": [],
-        "availability": "oficjalna zapowiedź dla Polski; prezentacja pod koniec 2026; sprzedaż niepotwierdzona",
+        "availability": "oficjalna zapowiedź dla Polski; przedpremierowy pokaz w Polsce zapowiedziany na październik 2026 (Poznań Game Arena); sprzedaż niepotwierdzona",
         "warrantyVehicle": null,
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-07-31",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
-        "rynek-2026/omoda-4/dane.md"
+        "rynek-2026/omoda-4/dane.md",
+        "rynek-2026/omoda-4/oferta-2026-09-25.md"
       ]
     },
     {
@@ -4397,26 +4411,29 @@
       "url": "https://nowoczesneauta.pl/modele/omoda-5-hybrid/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 119500,
+        "pricePln": 112900,
         "versions": [
           {
             "name": "Comfort",
-            "price": 119500
+            "price": 112900
           },
           {
             "name": "Premium",
-            "price": 136500
+            "price": 129900
           }
         ],
         "availability": null,
-        "warrantyVehicle": "7 lat",
+        "warrantyVehicle": "7 lat / 150 000 km lub 3 lata bez limitu km",
         "warrantyBattery": null,
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-08-04",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
-        "omoda-jaecoo/omoda-5-hybrid/cennik-2026-nr4-pgd-benzyna-hybryda.pdf"
+        "omoda-jaecoo/marka-2026-09-25.md",
+        "omoda-jaecoo/omoda-5-hybrid/cennik-2026-nr4-pgd-benzyna-hybryda.pdf",
+        "omoda-jaecoo/omoda-5-hybrid/cennik-2026-nr7.pdf",
+        "omoda-jaecoo/omoda-5-hybrid/oferta-2026-09-25.md"
       ]
     },
     {
@@ -4425,15 +4442,11 @@
       "url": "https://nowoczesneauta.pl/modele/omoda-7/",
       "marketStatus": "official_pl_current",
       "current": {
-        "pricePln": 169900,
+        "pricePln": 167900,
         "versions": [
           {
-            "name": "Comfort",
-            "price": 169900
-          },
-          {
             "name": "Luxury",
-            "price": 179900
+            "price": 167900
           },
           {
             "name": "Premium",
@@ -4446,10 +4459,13 @@
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
+        "omoda-jaecoo/marka-2026-09-25.md",
         "omoda-jaecoo/omoda-7/cennik-2026-nr1.pdf",
-        "omoda-jaecoo/omoda-7/cennik-2026-nr3.pdf"
+        "omoda-jaecoo/omoda-7/cennik-2026-nr3.pdf",
+        "omoda-jaecoo/omoda-7/cennik-2026-nr6.pdf",
+        "omoda-jaecoo/omoda-7/oferta-2026-09-25.md"
       ]
     },
     {
@@ -4491,15 +4507,17 @@
           }
         ],
         "availability": null,
-        "warrantyVehicle": "7 lat / 150 000 km",
+        "warrantyVehicle": "7 lat / 150 000 km lub 3 lata bez limitu km",
         "warrantyBattery": "8 lat / 160 000 km",
         "warrantySoh": null,
         "dealerCount": 60
       },
-      "observedAt": "2026-07-16",
+      "observedAt": "2026-09-25",
       "sourceReferences": [
+        "omoda-jaecoo/omoda-e5/cennik-2026-nr3.pdf",
         "omoda-jaecoo/omoda-e5/cennik-2026-pgd.pdf",
-        "omoda-jaecoo/omoda-e5/cennik-2026.pdf"
+        "omoda-jaecoo/omoda-e5/cennik-2026.pdf",
+        "omoda-jaecoo/omoda-e5/oferta-2026-09-25.md"
       ]
     },
     {
@@ -4879,6 +4897,121 @@
     }
   ],
   "changes": [
+    {
+      "id": "2026-09-25-omoda-5-hybrid-rabat-6600",
+      "modelSlug": "omoda-5-hybrid",
+      "observedAt": "2026-09-25",
+      "effectiveFrom": "2026-09-01",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "title": "Omoda 5 Hybrid: rabat rośnie do 6600 zł, Comfort za 112 900 zł",
+      "summary": "Cennik z 1 września 2026 dla aut wyprodukowanych w 2026 roku obniża obie wersje hybrydy o 6600 zł: Comfort kosztuje 112 900 zł, Premium 129 900 zł. Ceny katalogowe bez zmian (119 500 i 136 500 zł), a importer nie podał daty końca promocji.",
+      "before": "Cennik z 1 czerwca 2026 dawał rabat 3000 zł tylko na auta z 2025 roku wydane do 30 czerwca 2026: Comfort 116 500 zł, Premium 133 500 zł. Po tej dacie ceny katalogowe wynosiły 119 500 i 136 500 zł.",
+      "after": "Cennik z 1 września 2026 daje rabat 6600 zł każdemu kupującemu auto z 2026 roku: Comfort 112 900 zł, Premium 129 900 zł. Dodatkowe 4000 zł tylko za oddanie starego auta, ubezpieczenie za 1 zł do 30 września 2026.",
+      "editorialNote": "Datę 30 września 2026 importer podaje tylko dla ubezpieczenia za 1 zł i przykładów finansowania — dla cen promocyjnych daty końca nie ma, dlatego jej nie podajemy.",
+      "source": {
+        "path": "omoda-jaecoo/omoda-5-hybrid/oferta-2026-09-25.md",
+        "label": "Zestawienie oferty Omody 5 Hybrid, 25 września 2026",
+        "type": "source-register"
+      },
+      "reviewedAt": "2026-09-25",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/omoda-5-hybrid/"
+    },
+    {
+      "id": "2026-09-25-omoda-7-comfort-wyprzedany",
+      "modelSlug": "omoda-7",
+      "observedAt": "2026-09-25",
+      "effectiveFrom": "2026-09-01",
+      "reviewedAt": "2026-09-25",
+      "category": "versions",
+      "kind": "removed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "Omoda 7: Comfort wyprzedany, gama zaczyna się od Luxury za 167 900 zł",
+      "summary": "Cennik z 1 września 2026 oznacza wersję Comfort (169 900 zł) jako wyprzedaną. Najtańsza do zamówienia jest Luxury: 167 900 zł po rabacie 12 000 zł dla każdego kupującego, przy katalogu 179 900 zł. Premium kosztuje 184 900 zł bez rabatu.",
+      "before": "3 wersje: Comfort 169 900 zł, Luxury 179 900 zł i Premium 184 900 zł — bez cen promocyjnych w cennikach z marca i czerwca 2026.",
+      "after": "2 wersje do zamówienia: Luxury 167 900 zł po rabacie 12 000 zł (katalog 179 900 zł) i Premium 184 900 zł bez rabatu; Comfort wyprzedany.",
+      "editorialNote": "Cenę modelu podajemy jako najniższą dostępną dla każdego kupującego — bez rabatów za finansowanie marki (5000 zł) i oddanie starego auta (4000 zł) ani wartości ubezpieczenia za 1 zł. Cennik nie podaje daty końca ceny promocyjnej.",
+      "source": {
+        "path": "omoda-jaecoo/omoda-7/oferta-2026-09-25.md",
+        "label": "Zestawienie oferty Omody 7 w Polsce, stan na 25 września 2026",
+        "type": "source-register"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/omoda-7/"
+    },
+    {
+      "id": "2026-09-25-jaecoo-7-hybrid-promocja",
+      "modelSlug": "jaecoo-7-hybrid",
+      "observedAt": "2026-09-25",
+      "effectiveFrom": "2026-09-01",
+      "category": "promotion",
+      "kind": "added",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "title": "Jaecoo 7 Hybrid: pierwszy znany rabat gotówkowy 5000 zł na obie wersje",
+      "summary": "Cennik z 1 września 2026 wprowadził rabat gotówkowy 5000 zł na obie wersje Jaecoo 7 Hybrid — Select spadł do 134 900 zł, Exclusive do 144 900 zł. Wcześniejszy cennik z kwietnia miał tylko ubezpieczenie za 1 zł, bez rabatu gotówkowego.",
+      "before": "Cennik z 23 kwietnia 2026: Select 139 900 zł, Exclusive 149 900 zł, bez rabatu gotówkowego — jedyną promocją było ubezpieczenie OC/AC i GAP za 1 zł do 30 kwietnia 2026.",
+      "after": "Cennik z 1 września 2026: rabat gotówkowy 5000 zł na obie wersje — Select 134 900 zł, Exclusive 144 900 zł, bez dodatkowych warunków.",
+      "editorialNote": "Hasło „Zyskaj ponad 12 000 zł” dokłada do tych 5000 zł jeszcze 4000 zł za oddanie starego auta (Trade-in) i ubezpieczenie OC/AC oraz GAP za 1 zł — oba dokumenty importera liczą to tak samo, różnią się tylko wyceną samego ubezpieczenia (ok. 3500–3750 zł).",
+      "source": {
+        "path": "omoda-jaecoo/jaecoo-7-hybrid/oferta-2026-09-25.md",
+        "label": "Zestawienie oferty Jaecoo 7 Hybrid, 25 września 2026",
+        "type": "source-register"
+      },
+      "reviewedAt": "2026-09-25",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/jaecoo-7-hybrid/"
+    },
+    {
+      "id": "2026-09-25-jaecoo-7-super-hybrid-promocja-exclusive",
+      "modelSlug": "jaecoo-7-super-hybrid",
+      "observedAt": "2026-09-25",
+      "effectiveFrom": "2026-09-01",
+      "category": "promotion",
+      "kind": "changed",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "title": "Jaecoo 7 Super Hybrid: nowy rabat obejmuje tylko Exclusive",
+      "summary": "Wiosenny rabat 9000 zł obejmował tak samo obie wersje. Cennik z 1 września 2026 wprowadza inny mechanizm: Select kosztuje teraz katalogowo 159 900 zł bez osobnego rabatu, a Exclusive ma rabat gotówkowy 5000 zł — 164 900 zł zamiast 169 900 zł, z dodatkowym rabatem za oddanie starego auta do 160 900 zł.",
+      "before": "Rabat gotówkowy 9000 zł obejmował tak samo obie wersje: Select 150 900 zł, Exclusive 160 900 zł (promocja ważna do 30 kwietnia 2026).",
+      "after": "Select bez osobnego rabatu, 159 900 zł. Exclusive z rabatem gotówkowym 5000 zł, 164 900 zł, a z rabatem za oddanie starego auta — 160 900 zł.",
+      "editorialNote": "Końcowa cena Exclusive z pełnym rabatem (160 900 zł) jest liczbowo taka sama jak wiosną, ale dziś wymaga oddania starego auta w rozliczeniu — wcześniej wystarczył sam zakup w oknie promocji.",
+      "source": {
+        "path": "omoda-jaecoo/jaecoo-7-super-hybrid/oferta-2026-09-25.md",
+        "label": "Zestawienie oferty Jaecoo 7 Super Hybrid, 25 września 2026",
+        "type": "source-register"
+      },
+      "reviewedAt": "2026-09-25",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/jaecoo-7-super-hybrid/"
+    },
+    {
+      "id": "2026-09-25-omoda-4-pokaz-poznan",
+      "modelSlug": "omoda-4",
+      "observedAt": "2026-09-25",
+      "effectiveFrom": "2026-09-03",
+      "category": "availability",
+      "kind": "changed",
+      "materiality": "medium",
+      "confidence": "confirmed",
+      "title": "Omoda 4: pokaz w Polsce na Poznań Game Arena, sprzedaż wciąż bez daty",
+      "summary": "Nowe komunikaty polskiego newsroomu (3 i 21 września 2026) potwierdzają debiut w Barcelonie, premierę w Paryżu i przedpremierowy pokaz w Polsce na Poznań Game Arena (23–25 października 2026 wg organizatora) — przed rozpoczęciem sprzedaży. Data otwarcia sprzedaży w Polsce nadal nieznana.",
+      "before": "Zapowiedź mówiła ogólnie o prezentacji Omody 4 w Polsce pod koniec 2026 roku, bez konkretnego miejsca ani daty.",
+      "after": "Producent potwierdził przedpremierowy pokaz Omody 4 w Polsce na targach Poznań Game Arena pod koniec października 2026, wyraźnie przed rozpoczęciem sprzedaży; data otwarcia sprzedaży wciąż nie jest znana.",
+      "editorialNote": "Dokładne dni pokazu (23–25 października) pochodzą od organizatora targów Poznań Game Arena, nie z komunikatu producenta — na stronie modelu oznaczone osobno od faktów potwierdzonych bezpośrednio przez producenta.",
+      "source": {
+        "path": "rynek-2026/omoda-4/oferta-2026-09-25.md",
+        "label": "Zestawienie oferty i komunikatów Omoda 4, 25 września 2026",
+        "type": "source-register"
+      },
+      "reviewedAt": "2026-09-25",
+      "status": "published",
+      "modelUrl": "https://nowoczesneauta.pl/modele/omoda-4/"
+    },
     {
       "id": "2026-09-16-mg-hs-phev-euro-ncap-uzupelnienie",
       "modelSlug": "mg-hs-phev",
