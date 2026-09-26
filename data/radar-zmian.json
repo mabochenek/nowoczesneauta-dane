@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "name": "Radar zmian rynku nowych marek — NowoczesneAuta.pl",
-  "version": "2026-09-25",
-  "dateModified": "2026-09-25",
+  "version": "2026-09-26",
+  "dateModified": "2026-09-26",
   "methodology": "https://nowoczesneauta.pl/radar-zmian/#metodologia",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "repository": "https://github.com/mabochenek/nowoczesneauta-dane",
   "usageTerms": "https://nowoczesneauta.pl/radar-zmian/#zasady-wykorzystania",
   "scope": "chińskie marki i modele na rynku polskim: bieżąca oferta, oficjalne zapowiedzi, przedsprzedaż oraz modele wycofane i historyczne; ceny oficjalne, prognozy i ceny archiwalne są rozdzielone",
   "observation": {
-    "snapshotDate": "2026-09-25",
+    "snapshotDate": "2026-09-26",
     "sourceDataDate": "2026-09-08",
-    "monitoredModels": 174,
-    "dealers": 606,
+    "monitoredModels": 175,
+    "dealers": 618,
     "cities": 149
   },
   "models": [
@@ -2363,9 +2363,9 @@
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 12
       },
-      "observedAt": "2026-09-11",
+      "observedAt": "2026-09-26",
       "sourceReferences": [
         "rynek-2026/gwm-haval-h7/dane.md",
         "rynek-2026/gwm-haval-h7/premiera-europa-2026-08.pdf",
@@ -2384,9 +2384,9 @@
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 12
       },
-      "observedAt": "2026-09-11",
+      "observedAt": "2026-09-26",
       "sourceReferences": [
         "rynek-2026/gwm-jolion-max/dane.md",
         "rynek-2026/gwm-jolion-max/specyfikacja-chile-2026-04.pdf",
@@ -2418,17 +2418,38 @@
             "price": 129990
           }
         ],
-        "availability": "oficjalna oferta w Polsce; cennik od 2026-09-04",
+        "availability": "oficjalna oferta w Polsce; cennik od 2026-09-04; sprzedaż w salonach GWM",
         "warrantyVehicle": "7 lat / 150 000 km",
         "warrantyBattery": null,
         "warrantySoh": null,
-        "dealerCount": 0
+        "dealerCount": 12
       },
-      "observedAt": "2026-09-11",
+      "observedAt": "2026-09-26",
       "sourceReferences": [
         "rynek-2026/gwm-ora-5/cennik-pl-2026-09-04.pdf",
         "rynek-2026/gwm-ora-5/dane.md",
-        "rynek-2026/gwm-ora-5/gwarancja-pl-2026-09.pdf"
+        "rynek-2026/gwm-ora-5/gwarancja-pl-2026-09.pdf",
+        "rynek-2026/gwm-ora-5/strony-importera-2026-09-26.md"
+      ]
+    },
+    {
+      "slug": "gwm-tank-300",
+      "name": "GWM TANK 300",
+      "url": "https://nowoczesneauta.pl/modele/gwm-tank-300/",
+      "marketStatus": "official_pl_announced",
+      "current": {
+        "pricePln": null,
+        "versions": [],
+        "availability": "oficjalna zapowiedź dla Polski („Już wkrótce”); cena i termin niepotwierdzone",
+        "warrantyVehicle": "7 lat / 150 000 km",
+        "warrantyBattery": "8 lat / 160 000 km",
+        "warrantySoh": "70%",
+        "dealerCount": 12
+      },
+      "observedAt": "2026-09-26",
+      "sourceReferences": [
+        "rynek-2026/gwm-ora-5/gwarancja-pl-2026-09.pdf",
+        "zapowiedzi-2026/gwm-tank-300/dane.md"
       ]
     },
     {
@@ -4897,6 +4918,50 @@
     }
   ],
   "changes": [
+    {
+      "id": "2026-09-26-gwm-ora-5-siec-salonow",
+      "modelSlug": "gwm-ora-5",
+      "observedAt": "2026-09-26",
+      "reviewedAt": "2026-09-26",
+      "category": "availability",
+      "kind": "changed",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "GWM ORA 5 w 12 czynnych salonach",
+      "summary": "Lista dealerów GWM Polska wymienia 12 czynnych salonów w 11 miastach; Gdańsk i Olsztyn są w przygotowaniu. Wcześniej wszystkie punkty miały status „w przygotowaniu”.",
+      "before": "Punkty sprzedaży w przygotowaniu",
+      "after": "12 czynnych salonów",
+      "editorialNote": "Telefony, e-maile i godziny salonów pochodzą z listy importera; 5 salonów ma już wizytówkę Google.",
+      "source": {
+        "path": "rynek-2026/gwm-ora-5/strony-importera-2026-09-26.md",
+        "label": "Strony importera GWM Polska, odczyt 26.09.2026",
+        "type": "dossier"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/gwm-ora-5/"
+    },
+    {
+      "id": "2026-09-26-gwm-tank-300-coverage-added",
+      "modelSlug": "gwm-tank-300",
+      "observedAt": "2026-09-26",
+      "reviewedAt": "2026-09-26",
+      "category": "availability",
+      "kind": "added",
+      "materiality": "high",
+      "confidence": "confirmed",
+      "status": "published",
+      "title": "GWM TANK 300 zapowiedziany dla Polski — bez ceny i terminu",
+      "summary": "GWM Polska dodała TANK 300 do gamy z etykietą „Już wkrótce”: plug-in hybrid Hi4-T z napędem 4×4, reduktorem i blokadami mechanizmów różnicowych. Ceny, wersji i daty sprzedaży importer nie podał.",
+      "before": "Brak osobnego rekordu w centralnym katalogu rynku polskiego.",
+      "after": "Zapowiedź dla Polski",
+      "editorialNote": "Polska karta modelu nie podaje liczb; dane techniczne z Włoch, Hiszpanii i Australii opisujemy na stronie wyłącznie z etykietą rynku.",
+      "source": {
+        "path": "zapowiedzi-2026/gwm-tank-300/dane.md",
+        "label": "Dossier zapowiedzi: GWM TANK 300",
+        "type": "dossier"
+      },
+      "modelUrl": "https://nowoczesneauta.pl/modele/gwm-tank-300/"
+    },
     {
       "id": "2026-09-25-omoda-5-hybrid-rabat-6600",
       "modelSlug": "omoda-5-hybrid",

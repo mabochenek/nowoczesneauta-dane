@@ -8,10 +8,10 @@ polskim rynku, oraz dziennik zmian tych danych z dokumentem źródłowym przy ka
 Zbiór jest odświeżany automatycznie przy każdej publikacji serwisu.
 
 <!-- STATS:START -->
-- Wersja zbioru: **2026-09-25** (stan danych źródłowych: 2026-09-08, zrzut: 2026-09-25)
-- Modele: **174** (official_pl_current 148, official_pl_announced 23, official_pl_presale 2, private_import 1)
-- Zdarzenia w Radarze: **105** (availability 29, promotion 27, correction 16, price 13, warranty 10, versions 8, equipment 2)
-- Sieć sprzedaży: 606 punktów w 149 miastach
+- Wersja zbioru: **2026-09-26** (stan danych źródłowych: 2026-09-08, zrzut: 2026-09-26)
+- Modele: **175** (official_pl_current 148, official_pl_announced 24, official_pl_presale 2, private_import 1)
+- Zdarzenia w Radarze: **107** (availability 31, promotion 27, correction 16, price 13, warranty 10, versions 8, equipment 2)
+- Sieć sprzedaży: 618 punktów w 149 miastach
 <!-- STATS:END -->
 
 ## Pliki
